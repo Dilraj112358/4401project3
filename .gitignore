@@ -1,0 +1,3 @@
+# Large DistilBERT artifacts are kept locally.
+/wine_distilbert_results.zip
+/wine_distilbert_results/model/model.safetensors

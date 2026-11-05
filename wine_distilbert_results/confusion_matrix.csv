@@ -1,0 +1,6 @@
+,predicted red,predicted white,predicted sparkling,predicted rose,predicted dessert
+actual red,20267,140,88,218,51
+actual white,102,10461,214,36,37
+actual sparkling,28,185,850,38,6
+actual rose,72,57,28,662,4
+actual dessert,60,37,5,5,184
