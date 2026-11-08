@@ -1,0 +1,37 @@
+stage,source_notebook,row_type,training_scope,training_rows,validation_scope,validation_rows,model,train_accuracy,validation_accuracy,train_macro_f1,validation_macro_f1,macro_f1_gap,result_decision_note
+1,modeling_1.ipynb,model,California Cabernet Sauvignon / Chardonnay,10,California Cabernet Sauvignon / Chardonnay,2922,Naive Bayes,1,0.766,1,0.753,0.247,
+1,modeling_1.ipynb,model,California Cabernet Sauvignon / Chardonnay,10,California Cabernet Sauvignon / Chardonnay,2922,Logistic regression,1,0.786,1,0.783,0.217,
+1,modeling_1.ipynb,model,California Cabernet Sauvignon / Chardonnay,10,California Cabernet Sauvignon / Chardonnay,2922,Linear SVM,1,0.778,1,0.775,0.225,
+1,modeling_1.ipynb,model,California Cabernet Sauvignon / Chardonnay,10,California Cabernet Sauvignon / Chardonnay,2922,DistilBERT,0.9,0.574,0.899,0.548,0.351,
+1,modeling_1.ipynb,note,California Cabernet Sauvignon / Chardonnay,10,California Cabernet Sauvignon / Chardonnay,2922,,,,,,,each one is overfitting - just add more training data (obviously this is only for 10 obs)
+2,modeling_2.ipynb,model,California Cabernet Sauvignon / Chardonnay,100,California Cabernet Sauvignon / Chardonnay,2922,Naive Bayes,1,0.956,1,0.956,0.044,
+2,modeling_2.ipynb,model,California Cabernet Sauvignon / Chardonnay,100,California Cabernet Sauvignon / Chardonnay,2922,Logistic regression,1,0.956,1,0.956,0.044,
+2,modeling_2.ipynb,model,California Cabernet Sauvignon / Chardonnay,100,California Cabernet Sauvignon / Chardonnay,2922,Linear SVM,1,0.959,1,0.958,0.042,
+2,modeling_2.ipynb,model,California Cabernet Sauvignon / Chardonnay,100,California Cabernet Sauvignon / Chardonnay,2922,DistilBERT,0.79,0.628,0.79,0.626,0.164,
+2,modeling_2.ipynb,note,California Cabernet Sauvignon / Chardonnay,100,California Cabernet Sauvignon / Chardonnay,2922,,,,,,,again each model is still overfitting. just expand training set (same as from model 1)
+4,modeling_4.ipynb,model,California Cabernet Sauvignon / Chardonnay,1000,California Cabernet Sauvignon / Chardonnay,2922,Naive Bayes,0.999,0.984,0.999,0.984,0.015,
+4,modeling_4.ipynb,model,California Cabernet Sauvignon / Chardonnay,1000,California Cabernet Sauvignon / Chardonnay,2922,Logistic regression,0.999,0.984,0.999,0.984,0.015,
+4,modeling_4.ipynb,model,California Cabernet Sauvignon / Chardonnay,1000,California Cabernet Sauvignon / Chardonnay,2922,Linear SVM,1,0.985,1,0.985,0.015,
+4,modeling_4.ipynb,model,California Cabernet Sauvignon / Chardonnay,1000,California Cabernet Sauvignon / Chardonnay,2922,DistilBERT,0.999,0.983,0.999,0.983,0.016,
+4,modeling_4.ipynb,note,California Cabernet Sauvignon / Chardonnay,1000,California Cabernet Sauvignon / Chardonnay,2922,,,,,,,"still overfitting, but just barely. We see accuracies very close to the training accuracies. Because this is reaching its cieling in terms of perfromance, im gonna expand it to all california red/whites rather than just the chardonnays/cab sauvs. gonna stay at 1000 training obs and look at results."
+5,modeling_5.ipynb,model,California red / white,1000,California red / white,9405,Naive Bayes,0.996,0.979,0.996,0.974,0.022,
+5,modeling_5.ipynb,model,California red / white,1000,California red / white,9405,Logistic regression,1,0.981,1,0.976,0.024,
+5,modeling_5.ipynb,model,California red / white,1000,California red / white,9405,Linear SVM,1,0.982,1,0.978,0.022,
+5,modeling_5.ipynb,model,California red / white,1000,California red / white,9405,DistilBERT,0.992,0.976,0.992,0.97,0.022,
+5,modeling_5.ipynb,note,California red / white,1000,California red / white,9405,,,,,,,"Looks like the previosu models all generalized well to the expanded scope. Still some minor overfit, but that is to be expected. next step is to expand to 10,000 training obs, and make final modelling decisions from there before going to fully scoped dataset."
+6,modeling_6.ipynb,model,California red / white,10000,California red / white,9405,Naive Bayes,0.992,0.987,0.991,0.984,0.007,
+6,modeling_6.ipynb,model,California red / white,10000,California red / white,9405,Logistic regression,0.997,0.989,0.997,0.987,0.01,
+6,modeling_6.ipynb,model,California red / white,10000,California red / white,9405,Linear SVM,1,0.989,1,0.987,0.013,
+6,modeling_6.ipynb,model,California red / white,10000,California red / white,9405,DistilBERT,0.999,0.99,0.999,0.988,0.011,
+6,modeling_6.ipynb,note,California red / white,10000,California red / white,9405,,,,,,,"negligible overfit on training data. addition of more data to have negligible impact. 
+Next steps: generalize to all red and white wines trained from just california validated on all, as well as trained on all validated on all. keep all four models for the moment, but seems like SVM and BERT are the main two. Bert slightly better predicting, but can draw more interpretation from SVMs"
+7.1,modeling_7_1.ipynb,model,California red / white,20000,All-region red / white,31614,Naive Bayes,0.989,0.964,0.988,0.959,0.029,
+7.1,modeling_7_1.ipynb,model,California red / white,20000,All-region red / white,31614,Logistic regression,0.994,0.965,0.994,0.96,0.034,
+7.1,modeling_7_1.ipynb,model,California red / white,20000,All-region red / white,31614,Linear SVM,0.999,0.972,0.999,0.968,0.031,
+7.1,modeling_7_1.ipynb,model,California red / white,20000,All-region red / white,31614,DistilBERT,0.998,0.977,0.998,0.975,0.023,
+7.1,modeling_7_1.ipynb,note,California red / white,20000,All-region red / white,31614,,,,,,,"Not insignificant differences between train and test, slightly overfit to california wines. we can talka bout this language difference in our presentation/report maybe? minor overfit (for teh same reason), so expansion to train on a variety of regions should help."
+7.2,modeling_7_2.ipynb,model,All-region red / white,20000,All-region red / white,31614,Naive Bayes,0.985,0.98,0.984,0.977,0.007,
+7.2,modeling_7_2.ipynb,model,All-region red / white,20000,All-region red / white,31614,Logistic regression,0.991,0.982,0.99,0.98,0.01,
+7.2,modeling_7_2.ipynb,model,All-region red / white,20000,All-region red / white,31614,Linear SVM,0.999,0.984,0.999,0.982,0.017,
+7.2,modeling_7_2.ipynb,model,All-region red / white,20000,All-region red / white,31614,DistilBERT,0.997,0.986,0.997,0.984,0.013,
+7.2,modeling_7_2.ipynb,note,All-region red / white,20000,All-region red / white,31614,,,,,,,does better than the model only trained on california wines (as expected). can maybe talk about this. still SLIGHT overfit.
