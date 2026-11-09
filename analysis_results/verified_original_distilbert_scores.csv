@@ -1,0 +1,7 @@
+archive,split,rows,accuracy,balanced_accuracy,macro_f1
+modeling_6_distilbert_results.zip,training,10000,0.999,0.999,0.99899999984
+modeling_6_distilbert_results.zip,validation,9405,0.9903242955874535,0.9897704295380818,0.9879904792707426
+modeling_7_1_distilbert_results.zip,training,20000,0.99845,0.998576923076923,0.9982976560060367
+modeling_7_1_distilbert_results.zip,validation,31614,0.9773834377174669,0.9733875006991008,0.9748392050431427
+modeling_7_2_distilbert_results.zip,training,20000,0.99685,0.9970494505494505,0.9965419864228013
+modeling_7_2_distilbert_results.zip,validation,31614,0.9859555892958816,0.985523934992059,0.9844578191587837

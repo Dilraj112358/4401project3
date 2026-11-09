@@ -1,0 +1,40 @@
+{
+  "history_versions_reviewed": 25,
+  "total_rows": 169407,
+  "saved_split_rows": {
+    "train": 101506,
+    "validation": 33835,
+    "test": 33836
+  },
+  "saved_test_exposure_counts_nonexclusive": {
+    "saved_train": 0,
+    "saved_validation": 0,
+    "eda_train": 20243,
+    "eda_validation": 5683,
+    "original_model12_train": 23,
+    "original_model12_validation": 24,
+    "normalized_text_exposed": 25936,
+    "wine_family_exposed": 29941,
+    "saved_test": 33836,
+    "candidate_predictive_holdout": 5679,
+    "eligible_holdout": 2517
+  },
+  "development_exclusion_reasons_nonexclusive": {
+    "outside_confident_varieties": 24130,
+    "mapping_disagrees": 0,
+    "style_in_metadata": 9759,
+    "style_in_description": 5588,
+    "empty_description": 0,
+    "not_red_white": 8886
+  },
+  "development_retained": 108264,
+  "label_policy": "restricted existing variety mapping; exclude explicit alternative-style indicators; never auto-relabel",
+  "holdout_status": "recovered predictive holdout; whole-data aggregate EDA was previously seen",
+  "unrecoverable_execution": "Uncommitted/deleted experiments and other computers cannot be audited. modelattempt has no saved executed split/training and refers to absent label column.",
+  "inputs": {
+    "df_with_color.parquet": "13973736b80f349ca1b95ff6017d691199ddd2c91c49550a6a03caa73e035ba3",
+    "train.parquet": "78eaa45eedbc07db212d533c2607dc94e1859143c50e5f7b6f9dc0cd98be1e21",
+    "validation.parquet": "ee48b0edb3200ae1c8681159006b81a2f4e2ffe2514cfb3861ec164c4aa14e8c",
+    "test.parquet": "6f12259ccc4aaeb8cb0eb35efd0f7d880b83aef976c58957bfd6f5c52da5ec46"
+  }
+}

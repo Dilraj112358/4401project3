@@ -1,0 +1,18 @@
+{
+  "model": "Linear SVM",
+  "training_stage": "allregion_full",
+  "unmasked": {
+    "rows": 27121,
+    "accuracy": 0.9905976918255227,
+    "balanced_accuracy": 0.988644002959332,
+    "macro_f1": 0.9892871191194552
+  },
+  "masked": {
+    "rows": 27121,
+    "accuracy": 0.9854356402787507,
+    "balanced_accuracy": 0.9824196474296063,
+    "macro_f1": 0.9833938100038269
+  },
+  "pattern": "(?<!\\w)(?:Bordeaux\\-style\\ White\\ Blend|Bordeaux\\-style\\ Red\\ Blend|Rh\u00f4ne\\-style\\ White\\ Blend|Rh\u00f4ne\\-style\\ Red\\ Blend|Cabernet\\ Sauvignon|Sangiovese\\ Grosso|Gr\u00fcner\\ Veltliner|Portuguese\\ White|Sauvignon\\ Blanc|Gew\u00fcrztraminer|Cabernet\\ Franc|gewurztraminer|Portuguese\\ Red|Montepulciano|Nero\\ d'Avola|Pinot\\ Grigio|Petite\\ Sirah|Chenin\\ Blanc|Pinot\\ Blanc|Tempranillo|White\\ Blend|Sangiovese|Pinot\\ Gris|Portuguese|Chardonnay|Vermentino|Pinot\\ Noir|Sauvignon|Red\\ Blend|Garganega|Aglianico|Veltliner|Zinfandel|Carmen\u00e8re|Torront\u00e9s|S\u00e9millon|Riesling|Grenache|Albari\u00f1o|Nebbiolo|Viognier|Cabernet|Garnacha|Bordeaux|Verdejo|Barbera|Merlot|rosado|rosato|Petite|Grigio|Malbec|Shiraz|Gr\u00fcner|Chenin|Grosso|style|Pinot|chard|Syrah|Franc|Avola|white|Rh\u00f4ne|Gamay|Blend|Sirah|White|Blanc|Noir|ros\u00e9|Gris|rose|Nero|Red|red|cab)(?!\\w)",
+  "notes": "Retrained on masked training text and evaluated on masked validation text. Broad component masking can remove ordinary sensory words; this is a sensitivity analysis, not causal attribution."
+}

@@ -1,0 +1,15 @@
+partition,color,retained,rows
+train,dessert,False,872
+train,red,False,7627
+train,red,True,54664
+train,rose,False,2471
+train,sparkling,False,3322
+train,white,False,6071
+train,white,True,26479
+validation,dessert,False,291
+validation,red,False,2483
+validation,red,True,18281
+validation,rose,False,823
+validation,sparkling,False,1107
+validation,white,False,2010
+validation,white,True,8840

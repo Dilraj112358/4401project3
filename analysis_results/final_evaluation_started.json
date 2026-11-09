@@ -1,0 +1,4 @@
+{
+  "pipeline_sha256": "cf0fd9da6cd07f55d04f2902d2f352f228b5dd9af496b93b350937d6c3adf871",
+  "policy": "Recovered predictive holdout only; exclude exposed review text and wine families, apply frozen style rules, then evaluate once. Do not claim a pristine external holdout."
+}

@@ -1,0 +1,2064 @@
+row_id,actual_color,variety,country,province,predicted_color
+69,red,Nebbiolo,Italy,Piedmont,red
+289,red,Nebbiolo,Italy,Piedmont,red
+303,red,Petite Sirah,US,Oregon,red
+349,red,Portuguese Red,Portugal,Alentejano,red
+505,red,Merlot,US,California,red
+549,red,Red Blend,Italy,Tuscany,red
+629,red,Sangiovese,Italy,Tuscany,red
+667,red,Merlot,US,Virginia,red
+684,red,Red Blend,US,Washington,red
+821,red,Pinot Noir,US,Oregon,red
+883,red,Red Blend,Italy,Tuscany,red
+1017,red,Shiraz,Australia,South Australia,red
+1054,red,Bordeaux-style Red Blend,France,Bordeaux,red
+1076,white,Sauvignon Blanc,US,Oregon,white
+1177,white,White Blend,France,Alsace,white
+1178,red,Nero d'Avola,Italy,Sicily & Sardinia,red
+1264,red,Pinot Noir,France,Alsace,red
+1355,white,Riesling,Germany,Mosel,white
+1378,red,Zinfandel,US,California,red
+1379,red,Cabernet Sauvignon,US,California,red
+1485,red,Malbec,US,California,red
+1519,red,Nebbiolo,Italy,Piedmont,red
+1557,red,Rhône-style Red Blend,US,California,red
+1558,red,Zinfandel,US,California,red
+1619,red,Syrah,US,California,red
+1754,red,Syrah,France,Rhône Valley,red
+1773,red,Pinot Noir,US,California,red
+1812,red,Pinot Noir,New Zealand,Central Otago,red
+1995,red,Syrah,South Africa,Jonkershoek Valley,red
+2036,red,Rhône-style Red Blend,France,Rhône Valley,red
+2067,red,Petite Sirah,US,California,red
+2144,red,Shiraz,Australia,South Australia,red
+2252,red,Shiraz,Australia,South Australia,red
+2256,red,Merlot,US,California,red
+2268,red,Grenache,US,California,red
+2436,red,Red Blend,US,California,red
+2556,red,Zinfandel,US,California,red
+2567,red,Zinfandel,US,California,red
+2572,red,Syrah,US,California,red
+2734,red,Sangiovese,Italy,Tuscany,red
+3008,red,Zinfandel,US,California,red
+3012,red,Syrah,US,California,red
+3289,red,Shiraz,Australia,South Australia,red
+3396,red,Bordeaux-style Red Blend,France,Bordeaux,red
+3636,red,Red Blend,Argentina,Mendoza Province,red
+3702,red,Zinfandel,US,California,red
+3732,red,Red Blend,US,Washington,red
+3760,red,Pinot Noir,US,California,red
+3783,red,Red Blend,US,California,red
+3835,red,Gamay,France,Beaujolais,red
+3920,red,Bordeaux-style Red Blend,US,Washington,red
+3925,red,Zinfandel,US,California,red
+3940,red,Cabernet Sauvignon,Argentina,Mendoza Province,red
+3943,red,Barbera,US,California,red
+3989,white,Riesling,Romania,Recas,white
+4125,red,Cabernet Sauvignon,US,California,red
+4138,white,Chardonnay,US,California,white
+4243,red,Cabernet Sauvignon,Israel,Upper Galilee,red
+4373,red,Rhône-style Red Blend,US,Washington,red
+4418,white,Riesling,New Zealand,Marlborough,white
+4480,white,Viognier,Italy,Sicily & Sardinia,white
+4752,white,White Blend,US,California,white
+4786,red,Red Blend,Italy,Veneto,red
+4862,red,Sangiovese,Italy,Tuscany,red
+4872,red,Red Blend,US,California,red
+4891,red,Zinfandel,US,California,red
+5018,white,Chardonnay,France,Burgundy,white
+5064,red,Red Blend,Chile,Colchagua Valley,red
+5131,red,Zinfandel,US,California,red
+5155,red,Petite Sirah,US,California,red
+5358,red,Cabernet Franc,US,Washington,red
+5363,red,Aglianico,Italy,Southern Italy,red
+5578,red,Red Blend,Italy,Veneto,red
+5696,red,Pinot Noir,Argentina,Other,red
+5751,red,Pinot Noir,US,California,red
+5774,red,Pinot Noir,US,California,red
+5809,white,Chardonnay,US,California,white
+5864,red,Pinot Noir,US,Oregon,red
+5877,red,Merlot,Argentina,Mendoza Province,red
+5946,red,Cabernet Sauvignon,US,California,red
+5991,red,Red Blend,Italy,Tuscany,red
+6212,red,Tempranillo,Spain,Northern Spain,red
+6341,red,Red Blend,Italy,Tuscany,red
+6438,red,Red Blend,Italy,Tuscany,red
+6513,red,Cabernet Sauvignon,Chile,Central Valley,red
+6677,white,Pinot Gris,US,California,white
+6863,red,Portuguese Red,Portugal,Douro,red
+6900,red,Red Blend,South Africa,South Africa,red
+6985,white,Riesling,Austria,Kamptal,white
+7007,white,Chardonnay,US,New York,white
+7037,white,Chardonnay,US,California,white
+7063,white,Sauvignon Blanc,US,California,white
+7156,red,Pinot Noir,Australia,Victoria,red
+7265,red,Zinfandel,US,California,red
+7268,red,Pinot Noir,US,California,red
+7276,red,Cabernet Sauvignon,France,Languedoc-Roussillon,red
+7325,red,Syrah,US,California,red
+7408,red,Red Blend,US,Washington,red
+7451,red,Pinot Noir,US,California,red
+7514,red,Bordeaux-style Red Blend,France,Bordeaux,red
+7586,red,Portuguese Red,Portugal,Península de Setúbal,red
+7743,red,Bordeaux-style Red Blend,US,Washington,red
+7752,red,Pinot Noir,US,California,red
+7786,red,Zinfandel,US,California,red
+7792,red,Malbec,Argentina,Mendoza Province,red
+8119,red,Pinot Noir,US,California,red
+8136,red,Pinot Noir,France,Burgundy,red
+8187,red,Malbec,Argentina,Other,red
+8227,red,Red Blend,US,California,red
+8232,red,Sangiovese,Italy,Tuscany,red
+8283,red,Cabernet Sauvignon,Chile,Colchagua Valley,red
+8387,red,Bordeaux-style Red Blend,US,Washington,red
+8444,red,Merlot,Chile,Colchagua Valley,red
+8484,red,Pinot Noir,Germany,Pfalz,red
+8514,red,Red Blend,US,Washington,red
+8632,red,Shiraz,Australia,South Australia,red
+8756,red,Cabernet Sauvignon,US,California,red
+8929,white,Chardonnay,Australia,New South Wales,white
+9103,red,Syrah,Italy,Sicily & Sardinia,red
+9280,red,Merlot,Italy,Sicily & Sardinia,red
+9349,red,Rhône-style Red Blend,Australia,South Australia,red
+9561,red,Merlot,Australia,Australia Other,red
+9592,white,White Blend,US,Oregon,white
+9737,red,Rhône-style Red Blend,Australia,South Australia,red
+9999,red,Tempranillo,Spain,Northern Spain,red
+10067,red,Shiraz,Australia,South Australia,red
+10134,white,Sauvignon Blanc,South Africa,Swartland,white
+10191,red,Tempranillo,Spain,Northern Spain,red
+10232,white,White Blend,Austria,Neusiedlersee-Hügelland,white
+10304,red,Cabernet Sauvignon,US,California,red
+10314,red,Bordeaux-style Red Blend,US,Washington,red
+10405,red,Shiraz,Australia,South Australia,red
+10426,red,Pinot Noir,US,California,red
+10776,red,Bordeaux-style Red Blend,US,California,red
+10834,red,Red Blend,US,California,red
+10994,white,Chardonnay,France,Burgundy,white
+11003,white,Riesling,Germany,Mosel-Saar-Ruwer,white
+11053,red,Cabernet Franc,US,Washington,red
+11134,red,Rhône-style Red Blend,France,Rhône Valley,red
+11142,red,Syrah,US,California,red
+11187,red,Malbec,Argentina,Mendoza Province,white
+11197,red,Malbec,Argentina,Mendoza Province,red
+11207,red,Cabernet Sauvignon,Argentina,Mendoza Province,red
+11294,red,Red Blend,US,Washington,red
+11526,white,Portuguese White,Portugal,Alentejano,white
+11629,white,Pinot Blanc,Czech Republic,Moravia,white
+11639,white,Chardonnay,Argentina,Mendoza Province,white
+11835,red,Cabernet Franc,US,New York,red
+11847,red,Cabernet Sauvignon,Argentina,Mendoza Province,red
+11922,red,Nebbiolo,Italy,Piedmont,red
+11931,red,Pinot Noir,US,California,red
+12130,white,Chardonnay,US,California,white
+12251,red,Bordeaux-style Red Blend,France,Bordeaux,red
+12305,red,Zinfandel,US,California,red
+12326,red,Red Blend,Italy,Veneto,red
+12334,red,Nebbiolo,Italy,Piedmont,red
+12335,red,Merlot,US,New York,red
+12342,red,Cabernet Sauvignon,US,California,red
+12366,red,Red Blend,US,California,red
+12571,red,Red Blend,Italy,Southern Italy,red
+12639,red,Red Blend,Italy,Southern Italy,red
+12729,red,Portuguese Red,Portugal,Bairrada,red
+12777,red,Nebbiolo,Italy,Piedmont,red
+12879,red,Bordeaux-style Red Blend,US,Washington,red
+12910,red,Red Blend,Italy,Piedmont,red
+12917,red,Nebbiolo,Italy,Piedmont,red
+12918,white,White Blend,Chile,Maule Valley,white
+12927,red,Merlot,US,Washington,red
+13108,red,Cabernet Sauvignon,US,California,red
+13454,white,Portuguese White,Portugal,Douro,white
+13576,red,Merlot,US,New York,red
+13659,red,Zinfandel,US,California,red
+13725,red,Red Blend,South Africa,Walker Bay,red
+13922,red,Pinot Noir,France,Burgundy,red
+14145,red,Portuguese Red,Portugal,Alentejano,red
+14280,red,Red Blend,US,Washington,red
+14310,red,Carmenère,Chile,Peumo,red
+14319,red,Pinot Noir,Chile,Casablanca Valley,red
+14405,red,Pinot Noir,US,California,red
+14464,red,Portuguese Red,Portugal,Alentejano,red
+14504,red,Pinot Noir,US,California,red
+14578,red,Red Blend,US,California,red
+14603,red,Merlot,US,California,red
+14642,red,Malbec,Argentina,Mendoza Province,red
+14671,white,Chardonnay,Argentina,Other,white
+14836,red,Rhône-style Red Blend,US,Washington,red
+14903,red,Sangiovese,US,California,red
+15039,red,Cabernet Sauvignon,US,California,red
+15221,red,Portuguese Red,Portugal,Lisboa,red
+15225,red,Cabernet Sauvignon,US,California,red
+15276,red,Cabernet Franc,US,Idaho,red
+15355,red,Pinot Noir,France,Burgundy,red
+15449,white,Pinot Grigio,US,California,white
+15574,white,Portuguese White,Portugal,Dão,white
+15729,red,Cabernet Sauvignon,US,California,red
+15774,red,Pinot Noir,US,California,red
+15784,white,White Blend,US,California,white
+15839,red,Portuguese Red,Portugal,Alentejano,red
+15856,red,Nebbiolo,Italy,Piedmont,red
+15928,red,Bordeaux-style Red Blend,France,Southwest France,red
+15936,white,Portuguese White,Portugal,Lisboa,white
+15993,red,Red Blend,US,Washington,red
+16050,red,Pinot Noir,France,Languedoc-Roussillon,red
+16170,red,Syrah,US,California,red
+16285,red,Cabernet Sauvignon,US,California,red
+16315,red,Tempranillo,Australia,South Australia,red
+16443,red,Cabernet Sauvignon,US,California,red
+16462,red,Tempranillo,Spain,Northern Spain,red
+16540,red,Zinfandel,US,California,red
+16564,red,Tempranillo,Spain,Northern Spain,red
+16602,red,Syrah,France,Rhône Valley,red
+16633,red,Syrah,Italy,Tuscany,red
+16634,red,Red Blend,US,California,red
+16713,red,Sangiovese Grosso,Italy,Tuscany,red
+16720,red,Cabernet Sauvignon,US,California,red
+16762,red,Cabernet Sauvignon,Spain,Northern Spain,red
+16915,red,Pinot Noir,New Zealand,Martinborough,red
+16987,red,Nebbiolo,Italy,Piedmont,red
+17163,red,Red Blend,US,California,red
+17272,red,Cabernet Sauvignon,US,California,red
+17288,red,Pinot Noir,France,Burgundy,red
+17368,white,Chardonnay,France,Languedoc-Roussillon,white
+17497,red,Rhône-style Red Blend,US,California,red
+17642,red,Cabernet Sauvignon,US,Washington,red
+17782,white,White Blend,US,Oregon,white
+17822,white,Riesling,Germany,Mosel-Saar-Ruwer,white
+17867,red,Petite Sirah,US,California,red
+17936,red,Pinot Noir,US,Oregon,red
+18040,white,Chardonnay,France,Burgundy,white
+18044,white,Grüner Veltliner,Austria,Kamptal,white
+18356,red,Cabernet Sauvignon,US,California,red
+18386,red,Sangiovese Grosso,Italy,Tuscany,red
+18429,white,Verdejo,Spain,Northern Spain,white
+18468,white,Viognier,France,Languedoc-Roussillon,white
+18514,red,Pinot Noir,France,Burgundy,red
+18553,red,Pinot Noir,France,Burgundy,red
+18558,red,Zinfandel,US,California,red
+18574,red,Bordeaux-style Red Blend,US,Washington,red
+18618,red,Cabernet Sauvignon,US,Idaho,red
+18764,white,Riesling,US,Oregon,white
+18929,red,Sangiovese,Italy,Tuscany,red
+19241,red,Tempranillo,Spain,Northern Spain,red
+19303,red,Malbec,Argentina,Mendoza Province,red
+19372,red,Bordeaux-style Red Blend,US,California,red
+19412,white,Viognier,France,Rhône Valley,white
+19555,red,Gamay,France,Beaujolais,red
+19611,red,Rhône-style Red Blend,France,Rhône Valley,red
+19663,red,Syrah,US,California,red
+19842,red,Red Blend,Italy,Veneto,red
+19896,red,Pinot Noir,US,New York,red
+20069,red,Rhône-style Red Blend,France,Rhône Valley,red
+20218,white,White Blend,US,California,white
+20291,red,Red Blend,Italy,Tuscany,red
+20336,red,Cabernet Sauvignon,US,California,red
+20422,red,Sangiovese,Italy,Tuscany,red
+20597,red,Cabernet Franc,US,California,red
+20701,white,Portuguese White,Portugal,Alentejano,white
+20777,white,Chardonnay,US,California,white
+20890,red,Sangiovese,Italy,Central Italy,red
+20901,red,Rhône-style Red Blend,US,California,red
+21241,red,Bordeaux-style Red Blend,France,Southwest France,red
+21602,red,Rhône-style Red Blend,US,California,red
+21664,red,Portuguese Red,Portugal,Estremadura,red
+21739,red,Gamay,France,Beaujolais,red
+21895,red,Zinfandel,US,California,red
+21905,red,Red Blend,US,California,red
+22048,red,Portuguese Red,Portugal,Alentejo,red
+22269,red,Cabernet Franc,US,California,red
+22412,red,Cabernet Sauvignon,US,California,red
+22492,red,Portuguese Red,Portugal,Alentejano,red
+22598,red,Bordeaux-style Red Blend,US,California,red
+22642,red,Pinot Noir,US,California,red
+22780,red,Shiraz,US,California,red
+22870,red,Red Blend,Italy,Central Italy,red
+22945,red,Bordeaux-style Red Blend,South Africa,Stellenbosch,red
+22968,red,Tempranillo,Spain,Central Spain,red
+23022,red,Sangiovese,US,California,red
+23073,red,Shiraz,France,Languedoc-Roussillon,red
+23185,red,Red Blend,Italy,Central Italy,red
+23361,red,Red Blend,Argentina,Mendoza Province,red
+23633,white,Viognier,US,California,white
+23925,white,Chardonnay,New Zealand,Marlborough,white
+23943,white,Chardonnay,South Africa,Coastal Region,white
+24032,white,Viognier,France,Languedoc-Roussillon,white
+24148,red,Syrah,US,California,red
+24196,white,Chardonnay,France,Languedoc-Roussillon,white
+24204,red,Red Blend,South Africa,Walker Bay,red
+24314,red,Sangiovese Grosso,Italy,Tuscany,red
+24756,red,Cabernet Sauvignon,US,California,red
+24763,red,Pinot Noir,US,California,red
+24825,red,Shiraz,US,California,red
+24826,red,Merlot,US,California,red
+24842,red,Cabernet Sauvignon,Argentina,Mendoza Province,red
+24918,red,Syrah,US,California,red
+24946,red,Pinot Noir,US,California,red
+25079,red,Rhône-style Red Blend,France,Rhône Valley,red
+25165,red,Zinfandel,US,California,red
+25224,red,Red Blend,Spain,Catalonia,red
+25250,red,Sangiovese Grosso,Italy,Tuscany,red
+25280,white,Chardonnay,US,California,white
+25381,white,Garganega,Italy,Veneto,white
+25403,red,Cabernet Sauvignon,US,California,red
+25405,red,Red Blend,Spain,Northern Spain,red
+25570,red,Merlot,US,California,red
+25648,red,Pinot Noir,US,California,red
+25718,red,Zinfandel,US,California,red
+25766,red,Shiraz,Australia,South Australia,red
+25786,red,Merlot,US,Washington,red
+25788,red,Red Blend,Argentina,Mendoza Province,red
+25803,red,Cabernet Sauvignon,US,Oregon,red
+25817,red,Syrah,France,Rhône Valley,red
+25838,red,Red Blend,US,California,red
+25849,red,Red Blend,US,California,red
+25957,red,Cabernet Sauvignon,Australia,South Australia,red
+26066,red,Red Blend,US,California,red
+26113,red,Petite Sirah,US,California,red
+26184,red,Red Blend,Italy,Veneto,red
+26269,red,Pinot Noir,US,California,red
+26391,white,Pinot Grigio,Australia,Australia Other,white
+26510,red,Cabernet Sauvignon,US,California,red
+26537,red,Cabernet Sauvignon,Australia,Australia Other,red
+26593,red,Gamay,France,Beaujolais,red
+26607,red,Pinot Noir,Chile,Bío Bío Valley,red
+26711,red,Red Blend,US,Arizona,red
+26802,white,Chardonnay,South Africa,Western Cape,white
+26803,red,Cabernet Sauvignon,South Africa,Western Cape,red
+27014,white,Pinot Blanc,US,California,white
+27050,red,Rhône-style Red Blend,US,California,red
+27190,red,Portuguese Red,Portugal,Setubal,red
+27370,red,Malbec,Argentina,Mendoza Province,red
+27449,red,Red Blend,Spain,Catalonia,red
+27454,red,Pinot Noir,US,California,red
+27518,red,Shiraz,South Africa,Stellenbosch,red
+27592,white,Riesling,Germany,Mosel-Saar-Ruwer,white
+27676,red,Cabernet Franc,Australia,South Australia,red
+27739,white,Riesling,Austria,Kamptal,white
+27747,red,Tempranillo,Spain,Catalonia,red
+27865,red,Barbera,Italy,Piedmont,red
+27880,red,Bordeaux-style Red Blend,US,California,red
+27988,white,Chardonnay,New Zealand,Waipara,white
+28018,red,Malbec,US,Washington,red
+28116,red,Pinot Noir,US,Oregon,red
+28200,red,Bordeaux-style Red Blend,US,California,red
+28331,red,Syrah,US,California,red
+28371,red,Pinot Noir,US,California,red
+28462,red,Red Blend,France,Provence,red
+28464,red,Barbera,Italy,Piedmont,red
+28558,red,Bordeaux-style Red Blend,US,California,red
+28685,red,Syrah,US,California,red
+28758,red,Cabernet Sauvignon,US,Washington,red
+28913,red,Syrah,US,California,red
+28933,red,Cabernet Sauvignon,Argentina,Mendoza Province,red
+28999,red,Barbera,Italy,Piedmont,red
+29029,red,Malbec,US,Washington,red
+29048,red,Red Blend,Italy,Tuscany,red
+29062,white,Chardonnay,US,California,white
+29163,white,Chardonnay,Chile,Bío Bío Valley,white
+29217,red,Cabernet Franc,US,Washington,red
+29446,red,Pinot Noir,Austria,Burgenland,red
+29467,white,Chardonnay,France,Burgundy,white
+29541,red,Barbera,Italy,Piedmont,red
+29620,red,Syrah,US,California,red
+29799,white,Sauvignon Blanc,New Zealand,Marlborough,white
+29870,white,Chardonnay,US,California,white
+29878,red,Red Blend,Spain,Levante,red
+29888,red,Cabernet Franc,France,France Other,white
+29895,red,Petite Sirah,Israel,Judean Hills,red
+29930,red,Bordeaux-style Red Blend,US,California,red
+30022,red,Carmenère,Chile,Central Valley,red
+30041,red,Merlot,US,California,red
+30080,red,Red Blend,France,Southwest France,red
+30153,red,Barbera,Italy,Piedmont,red
+30172,white,Sauvignon Blanc,Italy,Central Italy,white
+30173,red,Syrah,Chile,Peumo,red
+30176,red,Rhône-style Red Blend,US,California,red
+30221,red,Tempranillo,US,California,red
+30304,red,Barbera,Italy,Piedmont,red
+30324,red,Pinot Noir,France,Burgundy,red
+30347,white,White Blend,South Africa,Swartland,white
+30421,red,Red Blend,Australia,South Australia,red
+30429,red,Shiraz,Chile,Maipo Valley,red
+30464,white,Chardonnay,US,California,white
+30481,red,Barbera,Italy,Piedmont,red
+30499,red,Portuguese Red,Portugal,Alentejano,red
+30510,red,Red Blend,Australia,Victoria,red
+30564,red,Merlot,US,California,red
+30574,red,Syrah,US,California,red
+30629,white,Chardonnay,Australia,Australia Other,white
+30675,red,Pinot Noir,US,California,red
+30757,red,Red Blend,US,New York,red
+30780,red,Cabernet Sauvignon,US,California,red
+30804,red,Carmenère,Chile,Central Valley,red
+31006,red,Merlot,US,New York,red
+31074,red,Shiraz,US,Washington,red
+31085,red,Cabernet Sauvignon,US,Washington,red
+31187,red,Barbera,Italy,Piedmont,red
+31236,red,Zinfandel,US,California,red
+31271,red,Red Blend,US,Washington,red
+31297,red,Shiraz,Australia,South Australia,red
+31326,red,Red Blend,US,California,red
+31489,red,Zinfandel,US,California,red
+31490,red,Red Blend,US,California,red
+31619,red,Pinot Noir,US,California,red
+31768,red,Zinfandel,US,California,red
+31822,red,Merlot,US,California,red
+31890,red,Merlot,US,California,red
+32144,red,Cabernet Sauvignon,US,California,red
+32165,red,Syrah,Israel,Judean Hills,red
+32429,red,Cabernet Sauvignon,US,California,red
+32485,red,Malbec,US,Washington,red
+32595,red,Carmenère,Chile,Central Valley,white
+32868,red,Pinot Noir,US,California,red
+32897,white,Chardonnay,US,Oregon,white
+32912,red,Petite Sirah,US,California,red
+32972,white,Riesling,Germany,Mosel-Saar-Ruwer,white
+33062,red,Pinot Noir,Austria,Kamptal,red
+33067,red,Red Blend,France,Loire Valley,red
+33100,red,Cabernet Sauvignon,South Africa,Stellenbosch,red
+33143,white,Sémillon,US,Washington,white
+33313,red,Red Blend,Spain,Levante,red
+33414,red,Pinot Noir,US,California,red
+33485,red,Cabernet Sauvignon,South Africa,Stellenbosch,red
+33578,red,Pinot Noir,France,Loire Valley,red
+33667,red,Cabernet Sauvignon,US,California,red
+33681,white,White Blend,South Africa,Constantia,white
+33859,red,Cabernet Sauvignon,South Africa,Robertson,red
+34041,red,Tempranillo,US,California,red
+34094,red,Portuguese Red,Portugal,Estremadura,red
+34135,red,Cabernet Sauvignon,Italy,Tuscany,red
+34211,red,Red Blend,South Africa,Stellenbosch,red
+34224,red,Pinot Noir,US,Oregon,red
+34284,red,Cabernet Sauvignon,US,California,red
+34287,red,Cabernet Sauvignon,South Africa,Stellenbosch,red
+34317,red,Cabernet Sauvignon,US,Washington,red
+34418,white,Riesling,Germany,Mosel,white
+34489,white,Chardonnay,South Africa,Franschhoek,white
+34640,white,Gewürztraminer,New Zealand,Martinborough,white
+34645,red,Red Blend,South Africa,Western Cape,red
+34648,red,Syrah,New Zealand,Martinborough,red
+34694,red,Cabernet Sauvignon,US,California,red
+34712,red,Syrah,US,California,red
+34723,red,Syrah,US,Washington,red
+34788,red,Merlot,Argentina,Other,red
+34813,red,Red Blend,South Africa,Western Cape,red
+34845,red,Syrah,US,California,red
+34867,white,White Blend,Portugal,Douro,white
+34902,red,Syrah,US,Washington,red
+34991,red,Tempranillo,Spain,Central Spain,red
+35006,red,Pinot Noir,US,California,red
+35135,red,Merlot,US,New York,red
+35241,white,Riesling,Germany,Mosel,white
+35258,red,Cabernet Sauvignon,US,Ohio,red
+35333,red,Pinot Noir,US,California,red
+35428,red,Zinfandel,US,California,red
+35513,red,Cabernet Sauvignon,Argentina,Mendoza Province,red
+35631,red,Pinot Noir,Romania,Dealu Mare,red
+35641,white,Chardonnay,US,California,white
+35812,red,Zinfandel,US,California,red
+35824,red,Cabernet Sauvignon,Greece,Atalanti Valley,red
+35904,red,Pinot Noir,US,Oregon,red
+36062,white,Sauvignon Blanc,US,California,white
+36147,white,Riesling,US,Oregon,white
+36255,red,Cabernet Sauvignon,US,California,red
+36287,red,Cabernet Sauvignon,US,California,red
+36343,red,Red Blend,Spain,Catalonia,red
+36368,red,Bordeaux-style Red Blend,France,Bordeaux,red
+36376,red,Cabernet Sauvignon,US,California,red
+36412,red,Syrah,France,Rhône Valley,red
+36512,red,Syrah,Argentina,Other,red
+36648,red,Pinot Noir,US,California,red
+36674,red,Red Blend,Spain,Northern Spain,red
+36696,red,Nero d'Avola,Italy,Sicily & Sardinia,white
+36700,red,Bordeaux-style Red Blend,New Zealand,Hawke's Bay,red
+36988,white,Riesling,Austria,Wachau,white
+37061,red,Tempranillo,Spain,Northern Spain,red
+37318,red,Red Blend,Italy,Piedmont,red
+37329,red,Red Blend,US,Washington,red
+37368,white,Chardonnay,Chile,Central Valley,white
+37390,red,Pinot Noir,Argentina,Other,red
+37454,red,Sangiovese,Italy,Tuscany,red
+37508,white,Sauvignon Blanc,France,Loire Valley,white
+37587,red,Cabernet Sauvignon,Italy,Sicily & Sardinia,red
+37610,red,Syrah,US,California,red
+37720,red,Syrah,France,Rhône Valley,red
+37725,red,Tempranillo,Spain,Northern Spain,red
+37948,red,Cabernet Sauvignon,Chile,Maipo Valley,red
+38079,white,Chardonnay,Italy,Sicily & Sardinia,white
+38319,red,Grenache,US,Washington,red
+38330,red,Red Blend,South Africa,Cederberg,red
+38354,red,Rhône-style Red Blend,France,Languedoc-Roussillon,red
+38372,red,Cabernet Sauvignon,US,Washington,red
+38481,red,Merlot,US,California,red
+38487,red,Pinot Noir,US,California,red
+38561,red,Sangiovese,Italy,Tuscany,red
+38630,white,Pinot Grigio,Italy,Northeastern Italy,white
+38771,white,Chardonnay,US,California,white
+38779,red,Syrah,US,California,red
+38800,red,Zinfandel,US,California,red
+38877,red,Cabernet Sauvignon,US,California,red
+38998,white,Viognier,US,California,white
+39036,red,Pinot Noir,US,California,red
+39186,red,Red Blend,Italy,Tuscany,red
+39216,red,Portuguese Red,Portugal,Douro,red
+39264,red,Sangiovese,US,California,red
+39281,white,Sauvignon Blanc,US,California,white
+39458,red,Bordeaux-style Red Blend,US,California,red
+39496,red,Sangiovese,Italy,Tuscany,red
+39555,red,Merlot,US,California,red
+39663,red,Sangiovese,Italy,Tuscany,red
+39736,white,Chardonnay,Argentina,Mendoza Province,white
+39762,white,White Blend,US,Washington,white
+39786,red,Bordeaux-style Red Blend,US,Washington,red
+39841,white,Chardonnay,US,California,white
+39851,red,Zinfandel,US,California,red
+39883,red,Aglianico,Italy,Southern Italy,red
+40158,red,Shiraz,Australia,South Australia,red
+40229,white,Sauvignon Blanc,New Zealand,Marlborough,white
+40251,red,Merlot,Chile,Maule Valley,red
+40274,white,Chardonnay,France,Burgundy,white
+40350,red,Cabernet Sauvignon,US,California,red
+40516,white,Sauvignon Blanc,Italy,Northeastern Italy,white
+40620,red,Pinot Noir,New Zealand,East Coast,red
+40650,white,Pinot Grigio,Australia,South Australia,white
+40698,red,Bordeaux-style Red Blend,South Africa,Durbanville,red
+40699,red,Red Blend,US,Washington,red
+40761,white,Viognier,US,California,white
+40822,white,Chardonnay,France,Burgundy,white
+40867,red,Cabernet Sauvignon,US,California,red
+41087,red,Merlot,Chile,Curicó Valley,red
+41125,red,Pinot Noir,US,California,red
+41316,red,Zinfandel,US,California,red
+41377,red,Cabernet Sauvignon,US,Washington,red
+41508,red,Syrah,US,California,red
+41637,red,Cabernet Franc,US,Washington,red
+41644,red,Shiraz,Australia,South Australia,red
+41657,red,Shiraz,Australia,South Australia,red
+41685,red,Zinfandel,US,California,red
+41742,red,Cabernet Sauvignon,US,California,red
+41827,white,Chardonnay,France,Languedoc-Roussillon,white
+41913,red,Tempranillo,Spain,Central Spain,red
+42007,red,Cabernet Sauvignon,Australia,South Australia,red
+42201,red,Petite Sirah,US,California,red
+42299,red,Sangiovese,US,California,red
+42489,white,Sauvignon Blanc,New Zealand,Central Otago,white
+42491,red,Red Blend,Italy,Tuscany,red
+42525,red,Zinfandel,US,California,red
+42544,red,Merlot,US,California,red
+42624,white,Chardonnay,US,California,white
+42753,red,Cabernet Sauvignon,US,California,red
+42858,red,Red Blend,Spain,Catalonia,red
+42886,red,Zinfandel,US,California,red
+42900,red,Red Blend,Italy,Tuscany,red
+42980,red,Cabernet Sauvignon,US,Washington,red
+42985,white,Chardonnay,US,California,white
+43005,red,Cabernet Sauvignon,US,California,red
+43030,red,Red Blend,Italy,Tuscany,red
+43037,red,Shiraz,Chile,Central Valley,red
+43040,red,Sangiovese,Italy,Tuscany,red
+43065,red,Malbec,Argentina,Other,red
+43068,red,Merlot,US,California,red
+43272,red,Shiraz,Australia,South Australia,red
+43300,red,Sangiovese,Italy,Tuscany,red
+43316,red,Malbec,Argentina,Mendoza Province,red
+43382,red,Red Blend,US,California,red
+43386,red,Malbec,Argentina,Mendoza Province,red
+43471,red,Syrah,US,California,red
+43476,red,Shiraz,US,California,red
+43767,red,Shiraz,South Africa,Coastal Region,red
+43771,red,Syrah,US,California,red
+43788,red,Sangiovese,Italy,Tuscany,red
+43864,red,Malbec,Argentina,Mendoza Province,red
+43888,white,White Blend,South Africa,Stellenbosch,white
+43889,red,Pinot Noir,US,California,red
+43990,red,Zinfandel,US,California,red
+44053,red,Cabernet Sauvignon,Australia,South Australia,red
+44203,red,Bordeaux-style Red Blend,France,Bordeaux,red
+44219,red,Cabernet Sauvignon,US,California,red
+44469,red,Shiraz,Australia,South Australia,red
+44526,red,Cabernet Sauvignon,US,California,red
+44633,red,Cabernet Sauvignon,US,California,red
+44649,red,Montepulciano,Italy,Central Italy,red
+44693,red,Cabernet Sauvignon,South Africa,Paarl,red
+44853,red,Pinot Noir,New Zealand,Omaka Valley,red
+44880,red,Cabernet Sauvignon,US,California,red
+44918,red,Syrah,US,Washington,red
+45030,red,Portuguese Red,Portugal,Dão,red
+45046,white,Chardonnay,US,Washington,white
+45132,red,Pinot Noir,New Zealand,Waipara,red
+45172,red,Cabernet Sauvignon,Australia,New South Wales,red
+45174,white,Sémillon,Australia,Australia Other,white
+45192,red,Sangiovese,Italy,Tuscany,red
+45198,red,Cabernet Sauvignon,US,California,red
+45233,red,Syrah,Argentina,Other,red
+45421,red,Red Blend,US,California,red
+45479,white,Bordeaux-style White Blend,France,Bordeaux,white
+45507,red,Red Blend,Italy,Tuscany,red
+45522,red,Syrah,US,Oregon,red
+45540,red,Bordeaux-style Red Blend,US,Washington,red
+45560,red,Cabernet Sauvignon,US,Washington,red
+45600,red,Pinot Noir,New Zealand,Canterbury,red
+45632,white,Viognier,US,California,white
+45637,red,Merlot,Australia,Australia Other,red
+45685,red,Zinfandel,US,Washington,red
+45772,red,Zinfandel,US,California,red
+45801,white,Riesling,Germany,Mosel-Saar-Ruwer,white
+45804,red,Zinfandel,US,California,red
+45982,red,Cabernet Sauvignon,Chile,Maipo Valley,red
+46131,red,Cabernet Sauvignon,Australia,South Australia,red
+46132,red,Cabernet Sauvignon,US,California,red
+46134,red,Bordeaux-style Red Blend,US,California,red
+46163,red,Shiraz,Australia,Western Australia,red
+46219,red,Pinot Noir,US,Oregon,red
+46228,red,Aglianico,Italy,Southern Italy,red
+46321,red,Bordeaux-style Red Blend,US,Washington,red
+46353,red,Cabernet Sauvignon,US,California,red
+46369,red,Zinfandel,US,California,red
+46385,red,Merlot,Chile,Rapel Valley,red
+46507,red,Shiraz,Australia,Victoria,red
+46614,red,Tempranillo,Spain,Northern Spain,red
+46639,red,Merlot,US,Oregon,red
+46760,red,Syrah,France,Rhône Valley,red
+46783,red,Cabernet Sauvignon,France,Bordeaux,red
+46825,red,Sangiovese,Italy,Tuscany,red
+46837,white,Pinot Grigio,Italy,Northeastern Italy,white
+46896,red,Cabernet Sauvignon,US,California,red
+46945,red,Rhône-style Red Blend,France,Rhône Valley,red
+47033,red,Red Blend,Spain,Northern Spain,red
+47067,red,Cabernet Sauvignon,Australia,South Australia,red
+47242,red,Rhône-style Red Blend,France,Rhône Valley,red
+47255,white,Pinot Grigio,Italy,Northeastern Italy,white
+47267,red,Sangiovese,US,Washington,red
+47280,red,Shiraz,Australia,South Australia,red
+47336,white,Chardonnay,US,California,white
+47440,red,Tempranillo,Argentina,Mendoza Province,red
+47485,white,Sauvignon Blanc,France,Loire Valley,white
+47590,white,Chardonnay,France,Burgundy,white
+47641,red,Cabernet Sauvignon,Argentina,Other,red
+47802,red,Red Blend,Hungary,Eger,red
+47997,red,Red Blend,Hungary,Eger,red
+48077,white,Chardonnay,US,California,white
+48126,red,Cabernet Sauvignon,Chile,Aconcagua Valley,red
+48279,red,Cabernet Sauvignon,US,California,red
+48418,white,Chardonnay,New Zealand,Marlborough,white
+48446,red,Malbec,Argentina,Mendoza Province,red
+48488,white,Sauvignon Blanc,New Zealand,Hawke's Bay,white
+48597,red,Merlot,New Zealand,Hawke's Bay,red
+48608,red,Shiraz,Argentina,Other,red
+48636,red,Cabernet Sauvignon,US,California,red
+48676,white,Pinot Blanc,US,California,white
+48692,red,Cabernet Sauvignon,New Zealand,Marlborough,red
+48727,red,Merlot,New Zealand,Hawke's Bay,red
+48766,red,Pinot Noir,US,Oregon,red
+48799,red,Cabernet Sauvignon,US,California,red
+48824,white,Sauvignon Blanc,New Zealand,Waipara,white
+48864,red,Montepulciano,Italy,Central Italy,red
+48906,red,Pinot Noir,New Zealand,Marlborough,red
+49034,red,Cabernet Sauvignon,US,California,red
+49057,red,Bordeaux-style Red Blend,New Zealand,Hawke's Bay,red
+49091,red,Sangiovese,Italy,Tuscany,red
+49122,red,Zinfandel,US,California,red
+49125,red,Syrah,US,California,red
+49145,red,Sangiovese,US,California,red
+49240,red,Shiraz,South Africa,Western Cape,red
+49261,red,Zinfandel,US,California,red
+49263,red,Merlot,US,New York,red
+49520,red,Petite Sirah,US,California,red
+49530,red,Zinfandel,US,California,red
+49563,red,Syrah,US,California,red
+49614,red,Sangiovese Grosso,Italy,Tuscany,red
+49759,white,Chardonnay,France,Burgundy,white
+49775,red,Cabernet Sauvignon,US,California,red
+49878,white,Pinot Grigio,Italy,Northeastern Italy,white
+49919,red,Pinot Noir,US,California,red
+49963,red,Bordeaux-style Red Blend,France,Bordeaux,red
+50000,red,Red Blend,US,Idaho,red
+50025,red,Cabernet Sauvignon,US,California,red
+50130,red,Cabernet Sauvignon,US,California,red
+50150,red,Sangiovese,Italy,Tuscany,red
+50195,red,Merlot,US,California,red
+50381,red,Zinfandel,US,California,red
+50432,red,Red Blend,US,California,red
+50480,white,Pinot Grigio,Australia,South Australia,white
+50491,red,Cabernet Sauvignon,US,California,red
+50498,red,Barbera,Italy,Piedmont,red
+50513,red,Tempranillo,US,California,red
+50538,red,Tempranillo,Spain,Northern Spain,red
+50600,red,Bordeaux-style Red Blend,France,Bordeaux,red
+50652,red,Rhône-style Red Blend,France,Provence,red
+50981,red,Carmenère,Chile,Central Valley,red
+51017,red,Malbec,Argentina,Mendoza Province,red
+51162,red,Syrah,Spain,Central Spain,red
+51174,white,Gewürztraminer,France,Alsace,white
+51352,red,Sangiovese Grosso,Italy,Tuscany,red
+51373,red,Bordeaux-style Red Blend,France,Bordeaux,red
+51630,red,Red Blend,Italy,Central Italy,red
+51631,red,Syrah,France,France Other,red
+51640,red,Petite Sirah,US,California,red
+51872,red,Tempranillo,US,Washington,red
+51927,red,Pinot Noir,US,California,red
+51986,red,Cabernet Sauvignon,Australia,South Australia,red
+52052,red,Pinot Noir,US,California,red
+52091,red,Pinot Noir,US,California,red
+52128,red,Red Blend,Chile,Peumo,red
+52170,red,Pinot Noir,France,Burgundy,red
+52343,red,Pinot Noir,France,Burgundy,red
+52384,red,Portuguese Red,Portugal,Alentejano,red
+52544,red,Cabernet Franc,France,Loire Valley,red
+52578,white,Portuguese White,Portugal,Minho,white
+52625,red,Bordeaux-style Red Blend,US,California,red
+52688,red,Cabernet Sauvignon,Chile,Central Valley,red
+52843,red,Red Blend,Argentina,Mendoza Province,red
+52982,red,Red Blend,US,California,red
+53111,red,Red Blend,Italy,Piedmont,red
+53175,red,Pinot Noir,US,California,red
+53244,red,Barbera,Italy,Piedmont,red
+53298,red,Red Blend,US,California,red
+53461,red,Bordeaux-style Red Blend,France,Bordeaux,red
+53523,red,Portuguese Red,Portugal,Douro,red
+53535,white,Chardonnay,US,California,white
+53636,white,White Blend,France,Southwest France,white
+53657,red,Portuguese Red,Portugal,Douro,red
+53661,white,Riesling,Germany,Mosel,white
+53689,red,Pinot Noir,Germany,Baden,red
+53742,red,Rhône-style Red Blend,France,Languedoc-Roussillon,red
+53790,red,Cabernet Sauvignon,US,California,red
+53833,red,Cabernet Sauvignon,Chile,Maipo Valley,red
+53836,red,Bordeaux-style Red Blend,France,Bordeaux,red
+54211,red,Garnacha,Spain,Northern Spain,red
+54301,red,Pinot Noir,US,Oregon,red
+54341,red,Malbec,Argentina,Mendoza Province,red
+54462,red,Bordeaux-style Red Blend,France,Bordeaux,red
+54520,red,Pinot Noir,US,California,red
+54643,red,Pinot Noir,US,Oregon,red
+54748,red,Zinfandel,US,California,red
+54918,red,Pinot Noir,New Zealand,Marlborough,red
+55124,red,Malbec,Chile,Maule Valley,red
+55244,red,Red Blend,US,California,red
+55246,red,Bordeaux-style Red Blend,US,California,red
+55297,red,Pinot Noir,France,Burgundy,red
+55624,red,Barbera,Italy,Piedmont,red
+55691,red,Tempranillo,Spain,Central Spain,red
+55835,red,Red Blend,Spain,Catalonia,red
+55841,red,Portuguese Red,Portugal,Douro,red
+55878,red,Syrah,South Africa,Western Cape,red
+55880,white,Chardonnay,US,California,white
+56188,red,Bordeaux-style Red Blend,Canada,British Columbia,red
+56210,red,Sangiovese Grosso,Italy,Tuscany,red
+56236,red,Red Blend,Italy,Tuscany,red
+56313,white,Chardonnay,France,Burgundy,white
+56407,white,Riesling,Germany,Mosel,white
+56478,red,Pinot Noir,France,Burgundy,red
+56583,white,Chardonnay,France,Burgundy,white
+56663,white,Pinot Gris,US,California,white
+56777,red,Cabernet Franc,US,California,red
+56838,red,Pinot Noir,New Zealand,Marlborough,red
+56859,white,Riesling,US,New York,white
+56883,white,Chardonnay,US,California,white
+56933,white,Chardonnay,US,California,white
+56975,red,Cabernet Sauvignon,US,California,red
+56986,white,Grüner Veltliner,Austria,Niederösterreich,white
+57005,red,Rhône-style Red Blend,France,Languedoc-Roussillon,red
+57056,red,Red Blend,Chile,Aconcagua Valley,red
+57089,red,Pinot Noir,France,Burgundy,red
+57179,red,Pinot Noir,France,Burgundy,red
+57182,red,Pinot Noir,France,Burgundy,red
+57411,red,Tempranillo,US,California,red
+57507,red,Red Blend,US,California,red
+57562,red,Bordeaux-style Red Blend,Chile,Colchagua Valley,red
+57588,red,Syrah,US,Oregon,red
+57775,red,Rhône-style Red Blend,US,California,red
+57789,red,Red Blend,US,California,red
+57823,white,Chardonnay,France,Burgundy,white
+57949,white,Chardonnay,US,California,white
+57972,white,Portuguese White,Portugal,Alentejo,white
+58086,red,Rhône-style Red Blend,US,Washington,red
+58127,white,Riesling,France,Alsace,white
+58250,red,Cabernet Sauvignon,US,Washington,red
+58298,red,Syrah,US,California,red
+58381,red,Pinot Noir,US,California,red
+58600,red,Petite Sirah,US,California,red
+58647,red,Shiraz,South Africa,Olifants River,red
+58728,white,Chardonnay,US,California,white
+58745,white,Chardonnay,US,California,white
+58811,red,Malbec,Argentina,Mendoza Province,red
+58850,white,Riesling,Austria,Kremstal,white
+58996,red,Shiraz,Australia,South Australia,red
+59055,red,Nebbiolo,Italy,Piedmont,red
+59116,red,Sangiovese,Italy,Tuscany,red
+59139,white,Chardonnay,South Africa,Paarl,white
+59204,red,Grenache,US,California,red
+59224,red,Sangiovese,US,Washington,red
+59235,red,Pinot Noir,France,Burgundy,red
+59259,white,Chardonnay,US,California,white
+59341,white,Bordeaux-style White Blend,France,Bordeaux,red
+59418,red,Pinot Noir,US,California,red
+59441,red,Cabernet Sauvignon,US,California,red
+59589,red,Barbera,Italy,Piedmont,red
+59603,red,Pinot Noir,US,California,red
+59648,white,Chardonnay,US,California,white
+59737,red,Cabernet Sauvignon,US,California,red
+59865,red,Red Blend,US,California,red
+59968,red,Bordeaux-style Red Blend,US,Washington,red
+60003,red,Rhône-style Red Blend,US,Washington,red
+60050,red,Red Blend,France,Provence,red
+60104,red,Zinfandel,US,California,red
+60229,red,Red Blend,France,Southwest France,red
+60232,red,Portuguese Red,Portugal,Tejo,red
+60336,white,White Blend,Italy,Sicily & Sardinia,white
+60420,red,Pinot Noir,US,Oregon,red
+60507,white,Chardonnay,US,Washington,white
+60516,red,Syrah,US,California,red
+60664,red,Red Blend,Italy,Veneto,red
+60788,red,Pinot Noir,Canada,Ontario,red
+60792,white,Chenin Blanc,US,California,white
+60812,red,Merlot,US,California,red
+60858,red,Cabernet Sauvignon,US,California,red
+60934,red,Pinot Noir,US,California,red
+61052,red,Bordeaux-style Red Blend,US,California,red
+61097,red,Carmenère,Chile,Colchagua Valley,red
+61207,red,Red Blend,Argentina,Mendoza Province,red
+61230,red,Syrah,US,California,red
+61242,white,Chardonnay,Australia,Western Australia,white
+61414,red,Pinot Noir,Chile,Leyda Valley,red
+61430,red,Bordeaux-style Red Blend,France,Bordeaux,red
+61478,red,Nebbiolo,Italy,Piedmont,red
+61537,red,Grenache,US,California,red
+61541,red,Cabernet Sauvignon,US,California,red
+61730,red,Grenache,US,California,red
+61733,red,Bordeaux-style Red Blend,France,Bordeaux,red
+61879,red,Cabernet Sauvignon,US,California,red
+61909,red,Red Blend,US,California,red
+61910,white,Sauvignon Blanc,US,California,white
+61922,red,Cabernet Sauvignon,US,California,red
+61959,red,Cabernet Sauvignon,US,Washington,red
+62065,red,Merlot,US,Washington,red
+62279,red,Bordeaux-style Red Blend,Brazil,Serra Gaúcha,red
+62286,red,Bordeaux-style Red Blend,Spain,Northern Spain,red
+62486,red,Barbera,US,California,red
+62701,red,Pinot Noir,US,Oregon,red
+62835,red,Cabernet Sauvignon,Chile,Curicó Valley,red
+63036,red,Syrah,US,Washington,red
+63092,white,Riesling,US,Washington,white
+63324,red,Pinot Noir,US,California,red
+63325,red,Pinot Noir,US,Oregon,red
+63351,white,Albariño,US,California,white
+63446,red,Red Blend,US,Washington,red
+63718,red,Bordeaux-style Red Blend,France,Bordeaux,red
+63785,red,Syrah,US,Washington,red
+63892,red,Cabernet Sauvignon,US,Washington,red
+63915,red,Bordeaux-style Red Blend,US,California,red
+64009,red,Red Blend,South Africa,Stellenbosch,red
+64057,red,Syrah,Italy,Tuscany,red
+64124,white,White Blend,Greece,Patras,white
+64376,white,White Blend,Spain,Northern Spain,white
+64382,red,Merlot,Argentina,Mendoza Province,red
+64528,red,Red Blend,Italy,Tuscany,red
+64568,white,Chardonnay,US,California,white
+64586,red,Pinot Noir,France,Loire Valley,red
+64730,red,Pinot Noir,Australia,Victoria,red
+64789,red,Cabernet Sauvignon,US,Washington,red
+64817,red,Portuguese Red,Portugal,Dão,red
+64825,red,Pinot Noir,US,California,red
+64855,red,Red Blend,Argentina,Other,red
+64985,red,Rhône-style Red Blend,France,Provence,red
+65008,red,Cabernet Sauvignon,South Africa,Paarl,red
+65068,red,Barbera,Italy,Piedmont,red
+65096,red,Red Blend,US,Washington,red
+65209,red,Sangiovese,Italy,Tuscany,red
+65249,red,Malbec,US,California,red
+65367,red,Sangiovese,Italy,Tuscany,red
+65422,red,Gamay,France,Beaujolais,red
+65578,red,Rhône-style Red Blend,France,Rhône Valley,red
+65668,red,Cabernet Sauvignon,US,California,red
+65764,red,Pinot Noir,US,California,red
+66005,red,Grenache,US,Washington,red
+66025,red,Pinot Noir,Chile,Casablanca Valley,red
+66083,white,Viognier,France,France Other,white
+66219,red,Red Blend,Uruguay,Canelones,red
+66308,red,Bordeaux-style Red Blend,US,California,red
+66838,white,Chardonnay,Chile,Casablanca Valley,white
+66871,red,Shiraz,Australia,South Australia,red
+66954,red,Bordeaux-style Red Blend,France,Southwest France,red
+67004,red,Cabernet Franc,US,California,red
+67071,red,Red Blend,US,Washington,red
+67212,red,Malbec,France,Bordeaux,red
+67226,red,Bordeaux-style Red Blend,France,Bordeaux,red
+67254,white,Verdejo,Spain,Northern Spain,white
+67274,white,Chardonnay,US,California,white
+67285,red,Carmenère,Chile,Aconcagua Valley,red
+67431,white,White Blend,Italy,Sicily & Sardinia,white
+67552,red,Red Blend,US,Washington,red
+67707,white,Riesling,Romania,Tarnave,white
+67735,red,Malbec,Chile,Maule Valley,red
+67753,red,Bordeaux-style Red Blend,France,Bordeaux,red
+67762,red,Cabernet Sauvignon,US,California,red
+67871,white,Chardonnay,France,Burgundy,white
+68014,white,Garganega,Italy,Veneto,white
+68016,white,White Blend,US,California,white
+68020,red,Syrah,Spain,Northern Spain,red
+68184,red,Red Blend,US,California,red
+68309,red,Petite Sirah,US,California,red
+68362,red,Pinot Noir,France,Burgundy,red
+68376,red,Rhône-style Red Blend,France,Rhône Valley,red
+68414,red,Syrah,US,California,red
+68428,red,Pinot Noir,Switzerland,Switzerland,red
+68523,red,Portuguese Red,Portugal,Alentejo,red
+68656,white,Chardonnay,France,Burgundy,white
+68712,red,Pinot Noir,US,California,red
+68717,red,Red Blend,US,Washington,red
+68721,red,Nebbiolo,Italy,Piedmont,red
+68840,red,Red Blend,US,California,red
+68848,red,Pinot Noir,US,California,red
+68875,red,Cabernet Sauvignon,US,California,red
+68882,red,Zinfandel,US,California,red
+69064,white,Riesling,Germany,Rheinhessen,white
+69206,red,Red Blend,Italy,Veneto,red
+69339,red,Syrah,Chile,Central Valley,red
+69426,red,Nebbiolo,Italy,Piedmont,red
+69432,red,Rhône-style Red Blend,US,California,red
+69516,red,Zinfandel,US,California,red
+69532,red,Pinot Noir,US,California,red
+69552,red,Portuguese Red,Portugal,Douro,red
+69563,white,Chardonnay,France,France Other,white
+69566,red,Portuguese Red,Portugal,Dão,red
+69604,red,Red Blend,US,California,red
+69940,red,Tempranillo,US,Arizona,red
+70139,red,Petite Sirah,US,California,red
+70167,red,Pinot Noir,US,Oregon,red
+70245,red,Malbec,Argentina,Mendoza Province,red
+70264,red,Garnacha,Spain,Spain Other,red
+70374,white,Pinot Grigio,US,New York,white
+70381,red,Red Blend,Italy,Sicily & Sardinia,red
+70397,red,Pinot Noir,US,California,red
+70517,red,Red Blend,Spain,Spanish Islands,white
+70855,red,Petite Sirah,US,California,red
+70862,red,Cabernet Sauvignon,US,California,red
+70880,red,Sangiovese,Italy,Southern Italy,red
+71014,red,Bordeaux-style Red Blend,Argentina,Mendoza Province,red
+71202,red,Gamay,France,Beaujolais,red
+71307,red,Bordeaux-style Red Blend,France,Bordeaux,red
+71383,red,Sangiovese Grosso,Italy,Tuscany,red
+71861,red,Pinot Noir,US,California,red
+71911,red,Sangiovese,Italy,Tuscany,red
+71991,red,Pinot Noir,France,Alsace,red
+72150,white,White Blend,US,California,white
+72161,red,Pinot Noir,US,California,red
+72203,red,Cabernet Franc,US,Washington,red
+72210,red,Aglianico,Italy,Southern Italy,red
+72340,red,Syrah,France,France Other,red
+72455,red,Pinot Noir,US,California,red
+72463,red,Pinot Noir,US,California,red
+72634,red,Rhône-style Red Blend,France,Rhône Valley,red
+72643,red,Cabernet Sauvignon,US,Washington,red
+72868,white,Pinot Grigio,Chile,Maule Valley,white
+72909,red,Barbera,Italy,Piedmont,red
+73008,red,Pinot Noir,France,Burgundy,red
+73078,white,Portuguese White,Portugal,Douro,white
+73092,white,Chardonnay,France,Burgundy,white
+73188,red,Portuguese Red,Portugal,Lisboa,red
+73320,red,Red Blend,US,California,red
+73375,red,Syrah,US,California,red
+73410,red,Merlot,Spain,Central Spain,red
+73426,red,Pinot Noir,US,California,red
+73486,red,Malbec,Argentina,Mendoza Province,red
+73602,red,Bordeaux-style Red Blend,France,Bordeaux,red
+73606,red,Cabernet Franc,US,Washington,red
+73734,red,Red Blend,Spain,Northern Spain,red
+73759,red,Pinot Noir,US,California,red
+73821,red,Gamay,France,Beaujolais,red
+73840,red,Shiraz,South Africa,Stellenbosch,red
+74108,red,Red Blend,US,California,red
+74137,red,Red Blend,US,Washington,red
+74139,red,Merlot,Italy,Veneto,red
+74308,red,Zinfandel,US,California,red
+74318,red,Cabernet Sauvignon,Italy,Central Italy,red
+74484,red,Portuguese Red,Portugal,Alentejo,red
+74523,red,Pinot Noir,Argentina,Mendoza Province,red
+74526,red,Portuguese Red,Portugal,Alentejano,red
+74577,red,Sangiovese,Italy,Tuscany,red
+74703,red,Nebbiolo,Italy,Piedmont,red
+74821,red,Cabernet Sauvignon,US,California,red
+74993,red,Pinot Noir,US,California,red
+75051,red,Cabernet Sauvignon,Chile,Central Valley,red
+75096,red,Malbec,Argentina,Mendoza Province,red
+75122,red,Cabernet Sauvignon,Italy,Veneto,red
+75206,red,Bordeaux-style Red Blend,US,California,red
+75381,red,Nebbiolo,Italy,Piedmont,red
+75449,red,Tempranillo,Spain,Central Spain,red
+75526,red,Bordeaux-style Red Blend,France,Bordeaux,red
+75573,red,Tempranillo,Spain,Northern Spain,red
+75705,red,Red Blend,Italy,Tuscany,red
+75764,red,Cabernet Sauvignon,US,California,red
+75820,red,Pinot Noir,France,Burgundy,red
+75979,red,Pinot Noir,Romania,Romania,red
+75983,red,Nebbiolo,Italy,Piedmont,red
+75994,red,Malbec,Argentina,Mendoza Province,red
+76240,white,Sauvignon Blanc,Chile,Casablanca Valley,white
+76319,red,Barbera,US,California,red
+76392,red,Red Blend,US,California,red
+76394,red,Cabernet Sauvignon,Argentina,Mendoza Province,red
+76460,red,Bordeaux-style Red Blend,France,Bordeaux,red
+76483,white,Chardonnay,US,California,white
+76606,red,Syrah,US,California,red
+76670,red,Zinfandel,US,California,red
+76680,red,Pinot Noir,US,California,red
+76714,red,Pinot Noir,US,California,red
+76859,white,Chardonnay,Italy,Veneto,white
+76936,red,Petite Sirah,US,California,red
+76995,red,Red Blend,US,California,red
+77156,red,Syrah,Italy,Sicily & Sardinia,red
+77348,red,Red Blend,Chile,Colchagua Valley,red
+77438,white,Sémillon,US,Washington,white
+77591,red,Red Blend,Spain,Levante,red
+77633,red,Shiraz,Israel,Galilee,red
+77740,red,Cabernet Sauvignon,US,California,red
+77802,red,Grenache,Spain,Northern Spain,red
+77901,white,Pinot Gris,US,California,white
+77913,red,Nebbiolo,Italy,Lombardy,red
+78097,white,Sauvignon Blanc,South Africa,Durbanville,white
+78102,red,Syrah,US,California,red
+78142,red,Red Blend,US,Washington,red
+78167,red,Red Blend,France,Southwest France,red
+78396,red,Red Blend,US,California,red
+78433,red,Pinot Noir,US,California,red
+78502,red,Red Blend,US,Idaho,red
+78619,red,Red Blend,South Africa,Coastal Region,red
+78645,red,Syrah,US,California,red
+78647,red,Sangiovese,Italy,Tuscany,red
+78684,red,Barbera,Italy,Piedmont,red
+78730,red,Pinot Noir,US,Oregon,red
+78734,red,Syrah,US,Washington,red
+78838,red,Cabernet Sauvignon,US,California,red
+78902,white,Chardonnay,US,Idaho,white
+78952,red,Red Blend,US,California,red
+78998,red,Pinot Noir,US,Oregon,red
+79030,red,Cabernet Sauvignon,US,California,red
+79073,red,Pinot Noir,US,California,red
+79081,white,Sauvignon Blanc,US,California,white
+79167,white,White Blend,US,Washington,white
+79258,white,Portuguese White,Portugal,Lisboa,white
+79272,red,Zinfandel,US,California,red
+79307,red,Sangiovese,Italy,Tuscany,red
+79385,white,Sauvignon Blanc,Chile,Casablanca-Curicó Valley,white
+79401,red,Red Blend,US,California,red
+79526,red,Zinfandel,US,California,red
+79603,white,Chardonnay,US,California,white
+79755,red,Rhône-style Red Blend,South Africa,Malgas,red
+79832,red,Pinot Noir,US,Washington,white
+79861,red,Zinfandel,US,California,red
+79898,red,Red Blend,US,Washington,red
+79958,red,Bordeaux-style Red Blend,France,Bordeaux,red
+80066,red,Pinot Noir,US,California,red
+80105,red,Zinfandel,US,California,red
+80294,red,Nebbiolo,Italy,Lombardy,red
+80346,white,White Blend,Spain,Northern Spain,white
+80432,red,Malbec,Argentina,Mendoza Province,red
+80480,white,Viognier,US,California,white
+80588,red,Red Blend,Italy,Veneto,red
+80589,red,Merlot,US,California,red
+80615,red,Bordeaux-style Red Blend,France,Bordeaux,red
+80657,red,Pinot Noir,US,Oregon,white
+80671,white,Sauvignon Blanc,France,Loire Valley,white
+80702,red,Syrah,US,Washington,red
+80865,white,Viognier,US,California,white
+80867,red,Pinot Noir,New Zealand,Marlborough,red
+80965,white,Sauvignon Blanc,US,California,white
+80977,red,Red Blend,US,California,red
+81047,red,Pinot Noir,US,Oregon,red
+81089,white,Pinot Grigio,Italy,Northeastern Italy,white
+81186,red,Red Blend,US,California,red
+81235,red,Cabernet Sauvignon,Argentina,Mendoza Province,red
+81433,red,Malbec,US,Washington,red
+81477,white,Bordeaux-style White Blend,France,Bordeaux,white
+81502,red,Pinot Noir,US,California,red
+81645,red,Petite Sirah,US,California,red
+81712,white,Chardonnay,US,California,white
+81738,white,Chenin Blanc,South Africa,Stellenbosch,white
+81904,white,Bordeaux-style White Blend,France,Bordeaux,white
+81966,red,Rhône-style Red Blend,US,California,red
+82039,red,Syrah,Chile,Casablanca Valley,red
+82120,white,Chardonnay,Israel,Judean Hills,white
+82151,red,Sangiovese,Italy,Tuscany,red
+82234,red,Cabernet Sauvignon,US,California,red
+82333,red,Red Blend,Italy,Tuscany,red
+82427,white,White Blend,US,Washington,white
+82493,red,Nebbiolo,Mexico,Valle de Guadalupe,red
+82582,red,Cabernet Sauvignon,US,Oregon,red
+82654,red,Rhône-style Red Blend,US,California,red
+82722,white,White Blend,Italy,Central Italy,white
+82851,white,Riesling,France,Alsace,white
+82997,red,Bordeaux-style Red Blend,US,Washington,red
+83146,red,Cabernet Sauvignon,US,Washington,red
+83232,red,Bordeaux-style Red Blend,Spain,Northern Spain,red
+83354,red,Carmenère,US,Washington,red
+83377,red,Sangiovese,Italy,Tuscany,red
+83407,red,Cabernet Sauvignon,US,California,red
+83441,red,Garnacha,Spain,Northern Spain,red
+83572,red,Gamay,France,Beaujolais,red
+83910,red,Tempranillo,Spain,Northern Spain,red
+83917,red,Pinot Noir,US,California,red
+83980,white,Rhône-style White Blend,France,Languedoc-Roussillon,white
+83993,red,Pinot Noir,US,Oregon,red
+84134,red,Bordeaux-style Red Blend,Chile,Maule Valley,red
+84231,red,Red Blend,US,California,red
+84260,red,Cabernet Sauvignon,US,New York,red
+84426,white,Chardonnay,Argentina,Mendoza Province,white
+84436,red,Portuguese Red,Portugal,Douro,red
+84465,red,Cabernet Sauvignon,US,California,red
+84497,red,Syrah,US,California,red
+84539,red,Rhône-style Red Blend,US,California,red
+84600,white,Pinot Gris,France,Alsace,white
+84610,red,Portuguese Red,Portugal,Douro,red
+84749,red,Pinot Noir,Austria,Wachau,red
+84751,white,Grüner Veltliner,Austria,Kremstal,white
+84807,red,Cabernet Sauvignon,US,Washington,red
+84817,red,Pinot Noir,US,California,red
+84838,red,Zinfandel,US,California,red
+84964,red,Red Blend,US,California,red
+84999,red,Syrah,US,California,red
+85304,red,Pinot Noir,US,California,red
+85356,red,Gamay,France,Beaujolais,red
+85361,red,Red Blend,Italy,Veneto,red
+85496,red,Pinot Noir,US,Michigan,red
+85550,white,Sauvignon Blanc,US,California,white
+85723,red,Red Blend,Mexico,San Vicente,red
+85729,red,Rhône-style Red Blend,France,Rhône Valley,red
+85731,red,Pinot Noir,US,California,red
+85925,red,Red Blend,Argentina,Mendoza Province,red
+86143,white,Riesling,US,Oregon,white
+86176,red,Red Blend,Chile,Loncomilla Valley,red
+86274,red,Carmenère,Chile,Colchagua Valley,red
+86281,red,Bordeaux-style Red Blend,US,Washington,red
+86495,red,Sangiovese,US,Washington,red
+86644,white,Pinot Grigio,Italy,Northeastern Italy,white
+86697,white,Chardonnay,France,Burgundy,white
+86788,red,Portuguese Red,Portugal,Tejo,red
+86859,white,Grüner Veltliner,Austria,Weinviertel,white
+86931,red,Malbec,Argentina,Mendoza Province,red
+87003,red,Syrah,US,California,red
+87399,red,Red Blend,Turkey,Turkey,red
+87423,red,Pinot Noir,Germany,Mosel,red
+87564,white,Chardonnay,France,Burgundy,white
+87657,red,Sangiovese Grosso,Italy,Tuscany,red
+87694,red,Gamay,France,Beaujolais,red
+87900,white,Sauvignon Blanc,Israel,Upper Galilee,white
+87986,red,Merlot,Chile,Lontué Valley,red
+87992,red,Malbec,Chile,Colchagua Valley,red
+88072,white,Bordeaux-style White Blend,France,Southwest France,white
+88148,red,Red Blend,US,Oregon,red
+88199,red,Pinot Noir,US,California,red
+88295,red,Merlot,US,California,red
+88347,red,Zinfandel,US,California,red
+88636,white,Sauvignon Blanc,Chile,Central Valley,white
+88703,red,Pinot Noir,France,Burgundy,red
+88735,red,Red Blend,Spain,Levante,red
+88842,white,Pinot Gris,US,Washington,white
+88871,red,Merlot,US,Washington,red
+88875,red,Red Blend,US,Washington,red
+88892,red,Red Blend,US,New York,red
+89007,red,Cabernet Sauvignon,US,California,red
+89070,red,Pinot Noir,US,California,red
+89137,red,Zinfandel,US,California,red
+89175,red,Cabernet Franc,Argentina,Other,red
+89216,red,Gamay,France,Beaujolais,red
+89217,white,Gewürztraminer,France,Alsace,white
+89236,red,Pinot Noir,US,California,red
+89298,red,Cabernet Franc,US,California,red
+89410,white,Chardonnay,Australia,South Australia,white
+89430,red,Sangiovese,Italy,Tuscany,red
+89501,red,Aglianico,Italy,Southern Italy,red
+89524,white,Viognier,US,Washington,white
+89597,red,Nebbiolo,Italy,Piedmont,red
+89708,red,Pinot Noir,Germany,Rheingau,red
+89837,white,Pinot Gris,US,Oregon,white
+89967,red,Merlot,US,California,red
+90179,red,Cabernet Sauvignon,US,California,red
+90235,red,Portuguese Red,Portugal,Douro,red
+90265,red,Syrah,US,Washington,red
+90279,red,Tempranillo,Spain,Northern Spain,red
+90320,white,Chardonnay,France,Loire Valley,white
+90473,red,Bordeaux-style Red Blend,France,Bordeaux,red
+90566,red,Portuguese Red,Portugal,Ribatejano,red
+90618,white,Portuguese White,Portugal,Alentejano,white
+90662,red,Rhône-style Red Blend,France,Languedoc-Roussillon,red
+90873,red,Cabernet Sauvignon,US,Oregon,red
+90981,red,Pinot Noir,Israel,Judean Hills,red
+90990,white,Chardonnay,US,Washington,white
+91027,white,Riesling,France,Alsace,white
+91046,red,Portuguese Red,Portugal,Alentejano,red
+91079,red,Zinfandel,US,California,red
+91288,red,Pinot Noir,US,California,red
+91291,white,Chardonnay,Italy,Northeastern Italy,white
+91460,red,Red Blend,Italy,Northeastern Italy,red
+91571,red,Red Blend,Argentina,Mendoza Province,red
+91666,red,Merlot,US,California,red
+91732,white,Chardonnay,Chile,Leyda Valley,white
+91763,red,Nero d'Avola,Italy,Sicily & Sardinia,red
+91896,red,Montepulciano,Italy,Central Italy,red
+91926,red,Cabernet Sauvignon,US,California,red
+91956,white,Grüner Veltliner,Austria,Weinviertel,white
+92188,red,Merlot,Chile,Maule Valley,red
+92189,red,Sangiovese,US,California,red
+92224,red,Syrah,US,California,red
+92266,white,Chardonnay,US,California,white
+92282,red,Tempranillo,Spain,Central Spain,red
+92359,white,Gewürztraminer,France,Alsace,white
+92365,red,Pinot Noir,Chile,Central Valley,red
+92412,red,Garnacha,Spain,Northern Spain,red
+92582,red,Pinot Noir,US,California,red
+92599,red,Sangiovese Grosso,Italy,Tuscany,red
+92622,white,Riesling,US,California,white
+92677,red,Syrah,US,California,red
+92895,red,Cabernet Sauvignon,US,Washington,red
+92913,red,Portuguese Red,Portugal,Alentejano,red
+93066,red,Cabernet Sauvignon,US,California,red
+93107,red,Red Blend,Australia,Victoria,red
+93152,red,Gamay,France,Beaujolais,red
+93171,white,Chardonnay,France,Burgundy,white
+93193,red,Syrah,US,California,red
+93255,red,Sangiovese,Italy,Tuscany,red
+93353,red,Red Blend,Italy,Tuscany,red
+93411,red,Portuguese Red,Portugal,Península de Setúbal,red
+93419,red,Cabernet Sauvignon,US,California,red
+93432,red,Sangiovese,US,California,red
+93435,red,Shiraz,Australia,Australia Other,red
+93497,red,Pinot Noir,US,California,red
+93561,red,Sangiovese,Italy,Tuscany,red
+93562,red,Red Blend,Italy,Tuscany,red
+93617,red,Cabernet Sauvignon,Argentina,Mendoza Province,red
+93624,red,Red Blend,US,Washington,red
+93665,red,Pinot Noir,US,Oregon,red
+93701,red,Syrah,US,California,red
+93807,red,Syrah,US,California,red
+94059,white,Chenin Blanc,South Africa,Robertson,white
+94084,red,Pinot Noir,France,Burgundy,red
+94251,red,Tempranillo,Spain,Northern Spain,red
+94443,red,Syrah,US,Washington,red
+94491,red,Grenache,US,California,red
+94533,red,Red Blend,US,California,red
+94673,red,Portuguese Red,Portugal,Dão,red
+94728,red,Petite Sirah,US,California,red
+94762,red,Pinot Noir,US,California,red
+94838,red,Tempranillo,Spain,Central Spain,red
+95028,red,Merlot,US,California,red
+95031,red,Pinot Noir,US,California,red
+95065,red,Red Blend,Argentina,Other,red
+95070,red,Cabernet Franc,US,Oregon,red
+95136,red,Nebbiolo,Italy,Piedmont,red
+95190,red,Red Blend,Italy,Central Italy,red
+95191,red,Montepulciano,Italy,Central Italy,red
+95214,white,White Blend,Greece,Achaia,white
+95490,white,Pinot Grigio,Romania,Romania,white
+95631,white,Pinot Grigio,US,California,white
+95681,red,Zinfandel,US,California,red
+95807,red,Gamay,France,Beaujolais,red
+95831,red,Zinfandel,US,California,red
+95953,red,Rhône-style Red Blend,France,Rhône Valley,red
+96130,red,Syrah,Canada,British Columbia,red
+96215,white,Rhône-style White Blend,France,Rhône Valley,white
+96318,red,Pinot Noir,US,California,red
+96528,red,Cabernet Sauvignon,US,California,red
+96718,red,Bordeaux-style Red Blend,France,Bordeaux,red
+96735,red,Malbec,Argentina,Mendoza Province,red
+96755,red,Syrah,US,Washington,red
+96808,red,Zinfandel,US,California,red
+97094,red,Merlot,US,California,red
+97245,red,Grenache,US,California,red
+97385,white,Chardonnay,US,Washington,red
+97390,red,Portuguese Red,Portugal,Bairrada,red
+97529,red,Nero d'Avola,Italy,Sicily & Sardinia,red
+97547,red,Merlot,US,California,red
+97690,white,Sauvignon Blanc,US,California,white
+98001,red,Rhône-style Red Blend,US,Washington,red
+98024,red,Grenache,US,California,red
+98146,red,Syrah,US,California,red
+98152,red,Sangiovese,Italy,Tuscany,red
+98160,red,Bordeaux-style Red Blend,US,Washington,red
+98169,red,Pinot Noir,Chile,Leyda Valley,red
+98183,red,Cabernet Sauvignon,France,Provence,red
+98261,red,Pinot Noir,US,Oregon,red
+98410,red,Portuguese Red,Portugal,Douro,red
+98440,red,Malbec,Argentina,Mendoza Province,red
+98634,red,Cabernet Sauvignon,US,Washington,red
+98653,red,Barbera,Italy,Piedmont,red
+98705,red,Rhône-style Red Blend,France,Languedoc-Roussillon,red
+98778,red,Pinot Noir,France,Burgundy,red
+98891,red,Gamay,France,Burgundy,red
+98945,red,Cabernet Sauvignon,US,California,red
+99071,red,Merlot,US,California,red
+99073,red,Barbera,US,California,white
+99154,red,Sangiovese,US,California,red
+99229,red,Petite Sirah,US,Washington,red
+99320,red,Nebbiolo,Italy,Piedmont,red
+99335,red,Bordeaux-style Red Blend,France,Bordeaux,red
+99432,red,Pinot Noir,US,California,red
+99462,red,Red Blend,Argentina,Mendoza Province,red
+99499,red,Pinot Noir,France,Burgundy,red
+99595,red,Barbera,US,California,red
+99623,red,Tempranillo,Spain,Northern Spain,red
+99637,red,Pinot Noir,US,Oregon,red
+99658,red,Gamay,France,Beaujolais,red
+99694,red,Cabernet Franc,US,Washington,red
+99771,white,White Blend,Italy,Veneto,red
+99819,red,Garnacha,Spain,Northern Spain,red
+100112,white,Sauvignon Blanc,US,California,white
+100175,red,Rhône-style Red Blend,France,Rhône Valley,red
+100375,red,Pinot Noir,US,California,red
+100388,red,Syrah,US,Washington,red
+100515,red,Pinot Noir,US,California,red
+100523,white,Riesling,US,California,white
+100555,red,Syrah,US,California,red
+100636,red,Red Blend,US,Idaho,red
+100661,red,Rhône-style Red Blend,France,Provence,red
+100743,white,Chardonnay,US,California,white
+101092,red,Red Blend,US,Washington,red
+101124,red,Cabernet Franc,US,Washington,red
+101198,red,Malbec,Argentina,Mendoza Province,red
+101293,red,Cabernet Sauvignon,US,Washington,red
+101546,white,White Blend,Spain,Northern Spain,white
+101564,red,Tempranillo,Spain,Northern Spain,red
+101756,red,Red Blend,US,California,red
+101762,red,Bordeaux-style Red Blend,France,Bordeaux,red
+101853,white,Chardonnay,US,Washington,white
+102005,white,White Blend,US,California,white
+102068,red,Pinot Noir,US,California,red
+102076,red,Cabernet Sauvignon,Italy,Tuscany,red
+102087,red,Cabernet Sauvignon,Italy,Tuscany,red
+102137,red,Pinot Noir,US,California,red
+102174,red,Cabernet Sauvignon,South Africa,Stellenbosch,red
+102367,white,White Blend,France,Languedoc-Roussillon,white
+102450,red,Bordeaux-style Red Blend,France,Bordeaux,red
+102492,red,Pinot Noir,New Zealand,Central Otago,red
+102514,red,Sangiovese,Italy,Tuscany,red
+102552,red,Red Blend,Italy,Tuscany,red
+102582,red,Aglianico,Italy,Southern Italy,red
+102662,red,Pinot Noir,US,California,red
+102760,red,Red Blend,US,Oregon,red
+102985,red,Zinfandel,US,California,red
+103054,red,Bordeaux-style Red Blend,France,Bordeaux,red
+103161,red,Cabernet Sauvignon,US,Washington,red
+103184,red,Red Blend,Italy,Sicily & Sardinia,red
+103302,white,Sauvignon Blanc,Slovenia,Štajerska,white
+103320,red,Pinot Noir,US,Oregon,red
+103322,red,Malbec,Argentina,Mendoza Province,red
+103396,red,Cabernet Sauvignon,Chile,Pirque,red
+103459,white,White Blend,Italy,Tuscany,white
+103517,red,Tempranillo,Spain,Northern Spain,red
+103949,white,Chenin Blanc,South Africa,Western Cape,white
+104159,white,White Blend,Italy,Tuscany,white
+104263,red,Merlot,France,Southwest France,red
+104299,red,Red Blend,US,Washington,red
+104338,red,Petite Sirah,US,California,red
+104352,red,Gamay,France,Beaujolais,red
+104495,red,Montepulciano,Italy,Southern Italy,red
+104526,red,Pinot Noir,US,Oregon,red
+104726,red,Cabernet Sauvignon,US,California,red
+104950,red,Syrah,South Africa,Jonkershoek Valley,red
+105013,red,Sangiovese,Italy,Central Italy,red
+105125,red,Pinot Noir,US,California,red
+105381,red,Syrah,Chile,Maipo Valley,red
+105471,red,Nebbiolo,Italy,Piedmont,red
+105524,red,Cabernet Franc,US,California,red
+105540,red,Barbera,Italy,Piedmont,red
+105564,red,Pinot Noir,US,California,red
+105694,white,White Blend,US,California,white
+105914,red,Cabernet Sauvignon,US,California,red
+106074,white,Chardonnay,US,Oregon,white
+106096,red,Cabernet Sauvignon,US,California,red
+106210,red,Cabernet Sauvignon,US,California,red
+106282,white,Sauvignon Blanc,France,Loire Valley,white
+106445,white,Riesling,Austria,Kamptal,white
+106446,red,Red Blend,US,Washington,red
+106455,white,Torrontés,Argentina,Mendoza Province,white
+106962,red,Pinot Noir,US,California,red
+107155,red,Red Blend,Spain,Catalonia,red
+107229,red,Gamay,France,Beaujolais,red
+107440,red,Petite Sirah,US,California,red
+107469,red,Sangiovese,Italy,Tuscany,red
+107590,red,Merlot,US,California,red
+107622,white,Chardonnay,France,Burgundy,white
+107679,red,Cabernet Franc,Italy,Tuscany,red
+107706,red,Pinot Noir,US,Oregon,red
+108011,red,Red Blend,Italy,Tuscany,red
+108073,red,Cabernet Sauvignon,US,California,red
+108090,red,Sangiovese,Italy,Tuscany,red
+108099,red,Cabernet Franc,US,New York,red
+108170,red,Nebbiolo,Italy,Piedmont,red
+108197,red,Pinot Noir,US,California,red
+108310,red,Gamay,France,Beaujolais,red
+108358,white,Chardonnay,France,Burgundy,white
+108380,red,Pinot Noir,France,Burgundy,red
+108637,red,Zinfandel,US,California,red
+108680,red,Cabernet Sauvignon,US,Washington,red
+108689,white,Chardonnay,US,Washington,white
+108735,red,Red Blend,US,California,red
+109095,red,Nebbiolo,Italy,Piedmont,red
+109122,red,Nebbiolo,Italy,Piedmont,red
+109202,red,Bordeaux-style Red Blend,France,Bordeaux,red
+109456,red,Syrah,US,California,red
+109458,red,Syrah,US,California,red
+109571,red,Sangiovese,Italy,Tuscany,red
+109628,red,Zinfandel,US,California,red
+109674,red,Pinot Noir,France,Loire Valley,red
+109709,red,Pinot Noir,Australia,Victoria,red
+109721,white,Pinot Grigio,US,California,white
+109722,red,Merlot,US,California,red
+109855,red,Malbec,US,California,red
+109869,red,Pinot Noir,US,California,red
+109912,white,Chardonnay,,,white
+110490,red,Gamay,France,Beaujolais,red
+110498,red,Grenache,US,California,red
+110531,red,Cabernet Sauvignon,US,California,red
+110589,red,Portuguese Red,Portugal,Lisboa,red
+110721,red,Pinot Noir,US,California,red
+110815,red,Cabernet Sauvignon,Argentina,Mendoza Province,red
+110916,red,Red Blend,Italy,Tuscany,red
+111169,white,Sauvignon Blanc,Chile,Central Valley,white
+111263,red,Tempranillo,Spain,Northern Spain,red
+111267,red,Cabernet Sauvignon,US,California,red
+111271,white,Chardonnay,US,Oregon,white
+111375,white,Pinot Grigio,US,California,white
+111427,red,Bordeaux-style Red Blend,France,Bordeaux,red
+111500,red,Cabernet Sauvignon,US,California,red
+111505,red,Cabernet Sauvignon,US,California,red
+111553,red,Cabernet Sauvignon,US,California,red
+111607,red,Pinot Noir,France,Alsace,red
+111631,red,Pinot Noir,France,Burgundy,red
+111646,red,Pinot Noir,US,Oregon,red
+111721,red,Bordeaux-style Red Blend,US,California,red
+111810,red,Pinot Noir,US,California,red
+111867,white,Sauvignon Blanc,US,California,white
+111886,red,Red Blend,US,Washington,red
+111904,red,Cabernet Sauvignon,US,California,red
+111934,white,Riesling,Germany,Mosel,white
+112083,red,Nebbiolo,Italy,Piedmont,red
+112129,red,Cabernet Sauvignon,US,California,red
+112226,red,Zinfandel,US,California,red
+112230,white,Sauvignon Blanc,US,Washington,white
+112339,red,Red Blend,France,Southwest France,red
+112420,red,Cabernet Franc,Argentina,Mendoza Province,red
+112628,red,Cabernet Franc,US,Washington,red
+112629,red,Garnacha,US,California,red
+112648,red,Pinot Noir,US,Oregon,red
+112786,red,Red Blend,Spain,Northern Spain,red
+112943,white,Chardonnay,Italy,Northeastern Italy,white
+112984,red,Bordeaux-style Red Blend,France,Bordeaux,red
+113000,red,Tempranillo,Spain,Northern Spain,red
+113352,red,Bordeaux-style Red Blend,France,Bordeaux,red
+113441,red,Bordeaux-style Red Blend,France,Bordeaux,red
+113472,red,Red Blend,Spain,Catalonia,red
+113666,red,Gamay,France,Beaujolais,red
+113724,white,White Blend,US,California,white
+113763,white,Chardonnay,US,Oregon,white
+113821,red,Red Blend,US,California,red
+113957,red,Bordeaux-style Red Blend,France,Bordeaux,red
+113965,red,Cabernet Sauvignon,US,Washington,red
+113975,red,Cabernet Sauvignon,US,California,red
+113994,red,Cabernet Sauvignon,US,California,red
+113995,red,Bordeaux-style Red Blend,US,California,red
+114019,red,Bordeaux-style Red Blend,France,Bordeaux,red
+114178,red,Red Blend,US,California,red
+114294,red,Grenache,Australia,South Australia,red
+114323,white,Riesling,Australia,South Australia,white
+114335,red,Malbec,Argentina,Mendoza Province,red
+114337,red,Gamay,France,Beaujolais,red
+114352,red,Cabernet Sauvignon,US,California,red
+114374,white,Chardonnay,France,Burgundy,white
+114385,red,Pinot Noir,France,Burgundy,red
+114421,white,White Blend,Austria,Niederösterreich,white
+114556,white,Chardonnay,US,California,white
+114601,red,Pinot Noir,France,Burgundy,red
+114800,white,White Blend,Italy,Northeastern Italy,white
+114857,red,Montepulciano,Italy,Central Italy,red
+114929,white,Chardonnay,US,California,white
+115128,red,Red Blend,Italy,Northeastern Italy,red
+115139,red,Red Blend,Italy,Veneto,red
+115170,white,Pinot Grigio,US,California,white
+115255,red,Gamay,France,Beaujolais,red
+115336,white,Viognier,US,Washington,white
+115393,red,Petite Sirah,US,California,red
+115554,red,Bordeaux-style Red Blend,France,Bordeaux,red
+115555,red,Cabernet Franc,US,Idaho,red
+115587,red,Zinfandel,US,California,red
+115737,red,Bordeaux-style Red Blend,Italy,Tuscany,red
+115742,white,Sauvignon Blanc,France,Loire Valley,white
+115803,red,Syrah,Chile,Aconcagua Valley,red
+115925,red,Pinot Noir,US,California,red
+115992,red,Merlot,Argentina,Mendoza Province,red
+116376,red,Red Blend,Spain,Central Spain,red
+116506,red,Malbec,France,Southwest France,red
+116593,red,Pinot Noir,US,California,red
+116706,red,Cabernet Sauvignon,US,California,red
+116745,red,Syrah,US,California,red
+116764,red,Pinot Noir,Argentina,Mendoza Province,red
+116854,red,Sangiovese,Italy,Tuscany,red
+116882,red,Carmenère,Chile,Colchagua Valley,red
+117226,red,Bordeaux-style Red Blend,France,Bordeaux,red
+117317,red,Red Blend,Spain,Northern Spain,red
+117450,red,Pinot Noir,US,California,red
+117560,red,Red Blend,Chile,Central Valley,red
+117905,red,Garnacha,Spain,Northern Spain,red
+117940,red,Pinot Noir,US,Oregon,red
+117980,red,Cabernet Sauvignon,US,California,red
+117983,red,Red Blend,US,California,red
+118010,red,Malbec,Argentina,Mendoza Province,red
+118040,red,Cabernet Sauvignon,US,Washington,red
+118161,red,Cabernet Sauvignon,South Africa,Western Cape,red
+118163,red,Syrah,US,Washington,red
+118172,red,Sangiovese,Italy,Tuscany,red
+118193,red,Bordeaux-style Red Blend,US,California,red
+118297,red,Petite Sirah,US,California,red
+118510,red,Red Blend,US,California,red
+118527,red,Rhône-style Red Blend,US,California,red
+118601,white,Chardonnay,Canada,British Columbia,white
+118635,red,Syrah,US,Washington,red
+118684,red,Merlot,South Africa,Paarl,red
+118804,white,Riesling,Germany,Mosel,white
+118821,red,Pinot Noir,US,California,red
+118887,red,Malbec,France,Southwest France,red
+118932,red,Sangiovese,Italy,Tuscany,red
+118937,white,Portuguese White,Portugal,Vinho Verde,white
+118967,red,Cabernet Sauvignon,US,California,red
+119039,red,Portuguese Red,Portugal,Tejo,red
+119090,red,Tempranillo,Spain,Northern Spain,red
+119280,red,Red Blend,US,California,red
+119333,white,Vermentino,US,California,white
+119462,red,Bordeaux-style Red Blend,France,Bordeaux,red
+119629,red,Red Blend,France,Languedoc-Roussillon,red
+119641,red,Bordeaux-style Red Blend,France,Bordeaux,red
+119767,red,Pinot Noir,US,Oregon,red
+119856,red,Pinot Noir,US,California,red
+119959,red,Red Blend,Italy,Tuscany,red
+120063,red,Red Blend,Italy,Tuscany,red
+120138,red,Syrah,US,Washington,red
+120194,red,Bordeaux-style Red Blend,France,Bordeaux,red
+120200,white,Chardonnay,US,California,white
+120403,red,Cabernet Sauvignon,US,California,red
+120588,red,Red Blend,US,California,red
+120622,red,Carmenère,Chile,Central Valley,red
+120676,red,Cabernet Sauvignon,US,California,red
+120818,red,Pinot Noir,France,Alsace,red
+120842,red,Pinot Noir,US,California,red
+120890,red,Cabernet Franc,US,Virginia,red
+120891,red,Merlot,US,Virginia,red
+121110,red,Pinot Noir,Chile,Maule Valley,red
+121152,red,Bordeaux-style Red Blend,France,Bordeaux,red
+121167,red,Carmenère,Chile,Rapel Valley,red
+121216,red,Bordeaux-style Red Blend,US,Virginia,red
+121387,red,Merlot,US,New York,red
+121450,white,Chardonnay,US,Washington,white
+121566,red,Bordeaux-style Red Blend,US,California,red
+121599,red,Shiraz,Australia,Australia Other,red
+121692,red,Pinot Noir,US,California,red
+121735,red,Cabernet Sauvignon,US,California,red
+121764,red,Red Blend,Chile,Colchagua Valley,red
+121781,red,Nebbiolo,Italy,Lombardy,red
+121793,white,Chardonnay,US,Washington,white
+122023,red,Nero d'Avola,Italy,Sicily & Sardinia,red
+122037,red,Cabernet Franc,US,California,red
+122132,red,Sangiovese Grosso,Italy,Tuscany,red
+122169,red,Syrah,US,California,red
+122243,red,Pinot Noir,US,Oregon,red
+122430,red,Rhône-style Red Blend,France,Languedoc-Roussillon,red
+122528,red,Pinot Noir,US,California,red
+122611,white,Chardonnay,France,Burgundy,white
+122636,red,Sangiovese,Italy,Tuscany,red
+122638,red,Red Blend,Italy,Tuscany,red
+122639,red,Pinot Noir,Switzerland,Switzerland,red
+122677,red,Cabernet Sauvignon,South Africa,Stellenbosch,red
+122736,red,Cabernet Sauvignon,US,California,red
+122771,white,Chardonnay,US,California,white
+122869,red,Red Blend,Italy,Tuscany,red
+122886,red,Red Blend,Italy,Tuscany,red
+122901,red,Tempranillo,Spain,Northern Spain,red
+122959,red,Red Blend,Italy,Tuscany,red
+123050,red,Cabernet Sauvignon,US,California,red
+123140,red,Red Blend,Spain,Levante,red
+123160,red,Rhône-style Red Blend,US,California,red
+123372,red,Rhône-style Red Blend,US,Washington,red
+123396,red,Cabernet Sauvignon,US,California,red
+123463,white,White Blend,Argentina,Mendoza Province,white
+123500,red,Red Blend,Italy,Veneto,red
+123577,red,Red Blend,US,California,red
+123767,red,Red Blend,US,California,red
+123919,white,Chardonnay,US,California,white
+123920,red,Cabernet Sauvignon,Turkey,Urla-Thrace,red
+124000,red,Portuguese Red,Portugal,Douro,red
+124047,red,Cabernet Sauvignon,US,California,red
+124067,red,Pinot Noir,Chile,Central Valley,red
+124119,white,Pinot Grigio,Italy,Northeastern Italy,white
+124172,red,Cabernet Sauvignon,Australia,Western Australia,red
+124314,red,Portuguese Red,Portugal,Lisboa,red
+124426,white,Grüner Veltliner,Austria,Niederösterreich,white
+124455,red,Pinot Noir,US,Oregon,white
+124548,red,Bordeaux-style Red Blend,US,Washington,red
+124566,white,Pinot Grigio,US,California,white
+124725,red,Barbera,Italy,Piedmont,red
+124729,red,Red Blend,US,California,red
+124977,red,Portuguese Red,Portugal,Alentejano,red
+125153,red,Petite Sirah,US,California,red
+125168,red,Pinot Noir,US,California,red
+125195,red,Syrah,US,California,red
+125564,red,Portuguese Red,Portugal,Alentejano,red
+125587,red,Red Blend,Spain,Northern Spain,red
+125613,red,Sangiovese,Italy,Tuscany,red
+125622,white,Sauvignon Blanc,Chile,Central Valley,white
+125704,red,Red Blend,US,Washington,red
+125905,red,Bordeaux-style Red Blend,US,California,red
+125971,red,Syrah,US,Washington,red
+126284,red,Tempranillo,Spain,Northern Spain,red
+126323,white,Sauvignon Blanc,US,Washington,white
+126441,red,Syrah,US,Washington,red
+126533,red,Red Blend,US,Colorado,red
+126536,red,Portuguese Red,Portugal,Douro,red
+126641,red,Red Blend,Austria,Niederösterreich,red
+126735,red,Tempranillo,Spain,Northern Spain,red
+126751,red,Bordeaux-style Red Blend,France,Bordeaux,red
+126781,red,Red Blend,France,Southwest France,red
+127055,red,Merlot,US,Oregon,red
+127107,red,Pinot Noir,US,California,red
+127112,red,Pinot Noir,France,Burgundy,red
+127149,red,Nebbiolo,Italy,Piedmont,red
+127228,red,Pinot Noir,US,New York,red
+127348,red,Red Blend,US,California,red
+127415,red,Cabernet Sauvignon,US,California,red
+127668,white,White Blend,US,California,white
+127869,red,Red Blend,Spain,Catalonia,red
+127947,red,Bordeaux-style Red Blend,France,Bordeaux,red
+127995,red,Cabernet Sauvignon,US,California,red
+128114,red,Red Blend,Spain,Northern Spain,red
+128184,red,Bordeaux-style Red Blend,France,Bordeaux,red
+128252,white,Sauvignon Blanc,Austria,Steiermark,white
+128326,red,Merlot,Israel,Israel,red
+128331,red,Pinot Noir,France,Burgundy,red
+128396,white,Chardonnay,US,California,white
+128523,white,Pinot Gris,France,Alsace,white
+128568,red,Sangiovese,Italy,Tuscany,red
+128739,white,Pinot Grigio,Italy,Northeastern Italy,white
+128851,red,Red Blend,US,California,red
+128853,red,Red Blend,Italy,Tuscany,red
+128906,white,Chardonnay,Chile,Leyda Valley,white
+129015,red,Malbec,Argentina,Mendoza Province,red
+129036,red,Red Blend,US,California,red
+129058,red,Gamay,France,Beaujolais,red
+129085,red,Cabernet Sauvignon,Israel,Galilee,red
+129096,red,Bordeaux-style Red Blend,US,Washington,red
+129179,red,Cabernet Sauvignon,US,New York,red
+129189,white,Chardonnay,France,Burgundy,white
+129245,red,Rhône-style Red Blend,US,California,red
+129639,red,Gamay,France,Beaujolais,red
+129647,red,Syrah,US,Washington,red
+129726,red,Red Blend,Spain,Northern Spain,red
+129771,red,Red Blend,Argentina,Mendoza Province,red
+129828,red,Cabernet Sauvignon,US,California,red
+129937,red,Tempranillo,US,California,red
+130087,red,Syrah,US,Washington,red
+130311,red,Bordeaux-style Red Blend,US,Washington,red
+130501,red,Cabernet Sauvignon,US,California,red
+130526,white,Chardonnay,Argentina,Mendoza Province,white
+130542,red,Tempranillo,Spain,Central Spain,red
+130575,red,Tempranillo,Spain,Northern Spain,red
+130918,red,Cabernet Franc,Chile,Curicó Valley,red
+131039,red,Pinot Noir,US,California,red
+131060,red,Cabernet Sauvignon,US,California,red
+131117,red,Pinot Noir,New Zealand,Central Otago,red
+131255,red,Cabernet Sauvignon,US,California,red
+131336,white,Chardonnay,US,California,white
+131349,red,Red Blend,US,California,red
+131391,red,Red Blend,Italy,Veneto,red
+131428,red,Syrah,US,Washington,red
+131481,red,Tempranillo,Spain,Northern Spain,red
+131503,red,Pinot Noir,US,California,red
+131633,red,Bordeaux-style Red Blend,France,Bordeaux,red
+131644,red,Cabernet Sauvignon,US,Washington,red
+131811,red,Gamay,France,Beaujolais,red
+131846,red,Red Blend,US,Virginia,red
+131853,red,Bordeaux-style Red Blend,US,Virginia,red
+131872,red,Pinot Noir,Argentina,Other,red
+131893,red,Portuguese Red,Portugal,Alentejano,red
+131911,red,Portuguese Red,Portugal,Bairrada,red
+131933,white,Chardonnay,US,California,white
+132016,red,Red Blend,US,California,red
+132135,red,Syrah,US,California,red
+132153,red,Bordeaux-style Red Blend,US,Virginia,red
+132218,red,Syrah,US,California,red
+132242,red,Red Blend,US,Washington,red
+132310,red,Sangiovese,US,California,red
+132430,red,Barbera,US,California,red
+132442,white,Riesling,US,Oregon,white
+132588,red,Red Blend,Australia,South Australia,red
+132638,red,Red Blend,US,Idaho,red
+132810,red,Pinot Noir,France,Burgundy,red
+132910,red,Red Blend,France,Provence,red
+132957,red,Sangiovese,Italy,Central Italy,red
+133048,red,Red Blend,US,Washington,red
+133070,white,White Blend,Italy,Northeastern Italy,white
+133147,red,Red Blend,US,California,red
+133167,red,Tempranillo,US,Washington,red
+133243,red,Bordeaux-style Red Blend,France,Bordeaux,red
+133264,red,Syrah,US,Washington,red
+133283,red,Barbera,US,California,red
+133484,red,Red Blend,Italy,Tuscany,red
+133492,red,Pinot Noir,US,California,red
+133668,white,Sauvignon Blanc,US,California,white
+133784,red,Red Blend,France,Southwest France,red
+133897,red,Merlot,France,Languedoc-Roussillon,red
+133917,red,Pinot Noir,US,California,red
+133921,red,Red Blend,US,California,red
+134056,red,Syrah,US,California,red
+134076,red,Red Blend,Italy,Italy Other,red
+134150,red,Zinfandel,US,California,red
+134182,red,Tempranillo,Spain,Northern Spain,red
+134294,red,Cabernet Sauvignon,US,California,red
+134428,red,Merlot,US,California,red
+134445,red,Pinot Noir,Chile,Casablanca Valley,red
+134450,red,Red Blend,Italy,Tuscany,red
+134457,red,Red Blend,Italy,Tuscany,red
+134502,red,Cabernet Sauvignon,US,Virginia,red
+134509,red,Cabernet Sauvignon,Argentina,Mendoza Province,red
+134554,red,Cabernet Sauvignon,Argentina,Mendoza Province,red
+134653,white,Riesling,Austria,Kremstal,white
+134733,white,Rhône-style White Blend,France,Rhône Valley,white
+134741,red,Cabernet Sauvignon,South Africa,Western Cape,red
+135123,red,Red Blend,US,California,red
+135181,white,Grüner Veltliner,Austria,Wachau,white
+135330,red,Cabernet Sauvignon,US,Washington,red
+135339,red,Red Blend,US,Washington,red
+135362,red,Gamay,France,Beaujolais,red
+135373,red,Malbec,France,Languedoc-Roussillon,red
+135384,red,Garnacha,Spain,Northern Spain,red
+135582,red,Syrah,US,Washington,red
+135659,red,Portuguese Red,Portugal,Douro,red
+136007,red,Cabernet Sauvignon,US,California,red
+136013,white,Riesling,US,Oregon,white
+136048,red,Shiraz,South Africa,Western Cape,red
+136128,red,Pinot Noir,US,California,red
+136187,red,Rhône-style Red Blend,US,California,red
+136249,red,Pinot Noir,US,California,red
+136403,red,Pinot Noir,US,California,red
+136441,red,Cabernet Sauvignon,US,California,red
+136453,red,Syrah,US,Washington,red
+136518,white,White Blend,Italy,Sicily & Sardinia,white
+136619,red,Cabernet Sauvignon,Australia,South Australia,red
+136675,red,Zinfandel,US,California,red
+136853,white,Chardonnay,US,Virginia,white
+136873,red,Bordeaux-style Red Blend,US,California,red
+136895,red,Syrah,US,California,red
+136954,red,Red Blend,US,Washington,red
+137012,white,Chardonnay,Canada,British Columbia,white
+137044,red,Zinfandel,US,California,red
+137088,white,White Blend,Italy,Northeastern Italy,white
+137150,red,Pinot Noir,US,Oregon,red
+137166,red,Bordeaux-style Red Blend,France,Bordeaux,red
+137201,red,Red Blend,Spain,Catalonia,red
+137231,white,Sauvignon Blanc,US,California,white
+137541,red,Malbec,Argentina,Mendoza Province,red
+137610,red,Pinot Noir,New Zealand,Marlborough,red
+137685,red,Sangiovese Grosso,Italy,Tuscany,red
+137695,red,Tempranillo,Spain,Northern Spain,red
+137943,red,Zinfandel,US,California,red
+137978,white,Pinot Grigio,Italy,Northeastern Italy,white
+138067,red,Sangiovese,US,Washington,red
+138110,red,Bordeaux-style Red Blend,France,Southwest France,red
+138510,red,Cabernet Sauvignon,US,California,red
+138536,red,Red Blend,Israel,Judean Hills,red
+138579,red,Red Blend,Italy,Veneto,red
+138716,red,Gamay,France,Beaujolais,red
+138780,red,Malbec,US,California,red
+138799,red,Syrah,US,Washington,red
+138833,red,Cabernet Sauvignon,Chile,Maipo Valley,red
+138864,red,Red Blend,US,California,red
+138975,red,Carmenère,Chile,Central Valley,red
+139039,red,Zinfandel,US,California,red
+139073,red,Pinot Noir,US,Oregon,red
+139119,red,Red Blend,Argentina,Mendoza Province,red
+139163,red,Bordeaux-style Red Blend,South Africa,Stellenbosch,red
+139189,red,Gamay,France,Beaujolais,red
+139275,red,Cabernet Sauvignon,US,California,red
+139358,red,Pinot Noir,US,California,red
+139405,red,Pinot Noir,US,California,red
+139471,white,Riesling,Austria,Wachau,white
+139594,red,Red Blend,Italy,Veneto,red
+139639,red,Portuguese Red,Portugal,Douro,red
+139692,red,Barbera,Italy,Piedmont,red
+139821,red,Merlot,Chile,Colchagua Valley,red
+139847,red,Tempranillo,US,Washington,red
+139861,red,Red Blend,Spain,Central Spain,red
+139960,red,Cabernet Sauvignon,US,California,red
+140038,red,Pinot Noir,US,California,red
+140179,white,Pinot Grigio,US,California,white
+140305,red,Pinot Noir,US,California,red
+140327,red,Portuguese Red,Portugal,Douro,red
+140444,red,Montepulciano,Italy,Central Italy,red
+140688,red,Merlot,US,California,red
+140726,red,Cabernet Sauvignon,US,Washington,red
+140859,red,Zinfandel,US,California,red
+140899,red,Syrah,US,California,red
+141080,white,Chardonnay,US,California,white
+141197,white,Pinot Grigio,Italy,Northeastern Italy,white
+141303,red,Nebbiolo,Italy,Piedmont,red
+141342,white,Sauvignon Blanc,France,Loire Valley,white
+141352,red,Malbec,Argentina,Mendoza Province,red
+141366,red,Tempranillo,US,Idaho,red
+141457,white,Gewürztraminer,Italy,Northeastern Italy,white
+141462,red,Rhône-style Red Blend,US,California,red
+141468,red,Rhône-style Red Blend,US,California,red
+141710,red,Syrah,US,California,red
+141831,red,Sangiovese,Italy,Tuscany,red
+141871,white,Chardonnay,Portugal,Estremadura,white
+142007,red,Barbera,US,California,red
+142105,red,Bordeaux-style Red Blend,France,Bordeaux,red
+142118,red,Pinot Noir,US,California,red
+142186,red,Cabernet Sauvignon,Chile,Colchagua Valley,red
+142235,red,Cabernet Sauvignon,US,California,red
+142288,red,Cabernet Sauvignon,Chile,Maipo Valley,red
+142333,red,Cabernet Sauvignon,US,California,red
+142350,red,Nebbiolo,Italy,Piedmont,red
+142402,white,Vermentino,Italy,Sicily & Sardinia,white
+142588,white,Chardonnay,Argentina,Mendoza Province,white
+142689,white,Grüner Veltliner,Austria,Kremstal,white
+142751,red,Barbera,Italy,Piedmont,red
+142776,red,Bordeaux-style Red Blend,France,Bordeaux,red
+142948,red,Rhône-style Red Blend,France,Rhône Valley,red
+143042,red,Rhône-style Red Blend,France,Rhône Valley,red
+143045,white,Chardonnay,Chile,Rapel Valley,white
+143211,white,Chardonnay,France,Burgundy,white
+143235,red,Syrah,US,Oregon,red
+143262,red,Pinot Noir,US,Oregon,red
+143268,red,Garnacha,US,Oregon,red
+143323,red,Pinot Noir,US,California,white
+143490,red,Red Blend,US,Michigan,red
+143501,white,Pinot Gris,France,Alsace,white
+143594,white,Pinot Grigio,Italy,Central Italy,white
+143639,white,Sauvignon Blanc,US,California,white
+143672,red,Pinot Noir,US,Oregon,red
+143674,red,Syrah,US,California,red
+143718,red,Pinot Noir,France,Burgundy,red
+143751,red,Bordeaux-style Red Blend,France,Bordeaux,red
+143759,red,Barbera,US,Washington,red
+143785,red,Red Blend,US,California,red
+143805,red,Bordeaux-style Red Blend,South Africa,Philadelphia,red
+144137,red,Portuguese Red,Portugal,Bairrada,red
+144272,red,Pinot Noir,US,California,red
+144532,red,Cabernet Sauvignon,US,California,red
+144546,red,Malbec,France,Southwest France,red
+144547,red,Cabernet Sauvignon,US,California,red
+144704,white,Chardonnay,France,Languedoc-Roussillon,white
+144728,red,Cabernet Sauvignon,US,California,red
+144744,red,Rhône-style Red Blend,France,Rhône Valley,red
+144903,red,Red Blend,Italy,Tuscany,red
+145117,white,Gewürztraminer,US,California,white
+145264,red,Pinot Noir,US,California,red
+145297,red,Pinot Noir,US,California,red
+145416,red,Portuguese Red,Portugal,Douro,red
+145575,red,Sangiovese,Italy,Tuscany,red
+145687,red,Red Blend,US,New York,red
+145813,white,White Blend,France,France Other,white
+145837,red,Red Blend,US,Washington,red
+145860,red,Rhône-style Red Blend,France,Rhône Valley,red
+145968,white,Portuguese White,Portugal,Dão,white
+146021,red,Red Blend,Spain,Central Spain,red
+146181,red,Red Blend,Spain,Northern Spain,red
+146380,red,Merlot,US,California,red
+146427,red,Sangiovese,Italy,Tuscany,red
+146735,red,Portuguese Red,Portugal,Douro,red
+146746,red,Cabernet Sauvignon,Argentina,Mendoza Province,red
+146747,red,Cabernet Sauvignon,US,California,red
+146786,red,Sangiovese,Italy,Tuscany,red
+146820,red,Red Blend,US,California,red
+147234,red,Syrah,France,Rhône Valley,red
+147265,white,Chardonnay,US,California,white
+147290,red,Rhône-style Red Blend,France,Rhône Valley,red
+147296,red,Rhône-style Red Blend,France,Rhône Valley,red
+147319,red,Shiraz,Australia,South Australia,red
+147418,red,Pinot Noir,US,California,red
+147507,red,Petite Sirah,US,California,red
+147821,red,Pinot Noir,US,New York,red
+147825,red,Red Blend,US,California,red
+147971,red,Red Blend,Italy,Tuscany,red
+148146,white,Chardonnay,US,Oregon,white
+148273,red,Merlot,US,California,red
+148336,white,Grüner Veltliner,Austria,Kamptal,white
+148350,red,Cabernet Sauvignon,US,California,red
+148361,red,Pinot Noir,US,Oregon,red
+148529,red,Cabernet Sauvignon,US,California,red
+148561,red,Zinfandel,US,California,red
+148605,white,Chardonnay,Ukraine,Ukraine,white
+148682,red,Merlot,US,Oregon,red
+148758,red,Cabernet Sauvignon,US,California,red
+148816,red,Pinot Noir,US,Oregon,red
+148878,red,Pinot Noir,US,New York,red
+148882,red,Red Blend,Italy,Southern Italy,red
+148893,red,Merlot,US,Washington,red
+148988,white,Riesling,Australia,South Australia,white
+148995,red,Zinfandel,US,California,red
+148998,red,Merlot,US,Washington,red
+149153,white,Portuguese White,Portugal,Douro,white
+149232,red,Pinot Noir,US,Oregon,red
+149258,red,Cabernet Sauvignon,US,California,red
+149455,red,Merlot,Chile,Maule Valley,red
+149471,red,Malbec,Argentina,Mendoza Province,red
+149475,red,Nebbiolo,Italy,Piedmont,red
+149525,red,Merlot,US,California,red
+149686,red,Cabernet Sauvignon,US,California,red
+149717,red,Aglianico,US,Texas,red
+150001,white,Riesling,Australia,South Australia,white
+150044,red,Sangiovese,Italy,Tuscany,red
+150222,red,Zinfandel,US,California,red
+150283,red,Red Blend,US,California,red
+150369,red,Cabernet Sauvignon,US,California,red
+150678,white,Albariño,Spain,Galicia,white
+150780,red,Merlot,US,California,red
+150873,white,Pinot Gris,New Zealand,Central Otago,white
+151079,red,Cabernet Sauvignon,US,California,red
+151154,white,Portuguese White,Portugal,Douro,white
+151541,red,Pinot Noir,France,Burgundy,red
+151619,red,Syrah,US,California,red
+151698,red,Malbec,Argentina,Mendoza Province,red
+151701,red,Malbec,Argentina,Mendoza Province,red
+151748,red,Petite Sirah,US,California,red
+151749,red,Malbec,Argentina,Mendoza Province,red
+151763,red,Zinfandel,US,California,red
+152672,red,Pinot Noir,New Zealand,South Island,red
+152746,red,Gamay,France,Beaujolais,red
+152776,red,Pinot Noir,US,California,red
+152972,red,Malbec,Argentina,Other,red
+152985,red,Barbera,Italy,Piedmont,red
+153054,red,Cabernet Sauvignon,US,California,red
+153257,red,Cabernet Sauvignon,Chile,Maipo Valley,red
+153259,red,Bordeaux-style Red Blend,US,Washington,red
+153392,red,Red Blend,Spain,Catalonia,red
+153686,red,Malbec,Argentina,Other,red
+153687,red,Grenache,France,France Other,white
+153739,white,Chardonnay,US,New York,white
+153864,red,Red Blend,France,Provence,white
+153975,red,Bordeaux-style Red Blend,US,California,red
+153992,red,Pinot Noir,US,California,red
+154117,red,Pinot Noir,France,Loire Valley,red
+154120,red,Cabernet Sauvignon,US,California,red
+154314,red,Tempranillo,US,Oregon,red
+154476,red,Sangiovese Grosso,Italy,Tuscany,red
+154508,white,Chardonnay,Mexico,Valle de Guadalupe,white
+154522,red,Cabernet Sauvignon,Chile,Central Valley,red
+154787,white,Chardonnay,South Africa,Elgin,white
+155171,red,Rhône-style Red Blend,France,Rhône Valley,red
+155178,red,Bordeaux-style Red Blend,US,Washington,red
+155346,white,Grüner Veltliner,Austria,Niederösterreich,white
+155460,white,Pinot Grigio,Italy,Northeastern Italy,white
+155619,red,Portuguese Red,Portugal,Alentejo,red
+155641,white,Bordeaux-style White Blend,France,Bordeaux,white
+155797,red,Bordeaux-style Red Blend,France,Bordeaux,red
+155868,white,White Blend,Australia,South Australia,white
+156113,red,Cabernet Sauvignon,US,California,red
+156214,red,Red Blend,Italy,Tuscany,red
+156352,red,Pinot Noir,Chile,Limarí Valley,red
+156362,red,Cabernet Sauvignon,US,California,red
+156394,red,Grenache,US,California,red
+156421,white,Sauvignon Blanc,New Zealand,Marlborough,white
+156454,red,Cabernet Sauvignon,US,California,red
+156614,red,Pinot Noir,US,California,red
+156653,red,Rhône-style Red Blend,US,California,red
+156697,red,Barbera,Italy,Piedmont,red
+156781,red,Malbec,Argentina,Mendoza Province,red
+156821,red,Zinfandel,US,California,red
+156876,white,Chardonnay,Australia,South Australia,white
+157276,red,Pinot Noir,France,Burgundy,red
+157490,white,Bordeaux-style White Blend,France,Bordeaux,white
+157648,white,White Blend,US,Virginia,white
+157791,red,Pinot Noir,New Zealand,Martinborough,red
+157827,red,Rhône-style Red Blend,US,California,red
+157937,white,Albariño,US,Washington,white
+157957,red,Bordeaux-style Red Blend,US,California,red
+157998,red,Malbec,Argentina,Mendoza Province,red
+158247,white,Chardonnay,US,California,white
+158362,white,Riesling,Germany,Mosel,white
+158468,red,Merlot,US,Washington,red
+158547,red,Tempranillo,US,California,red
+158716,red,Pinot Noir,US,California,red
+158723,red,Petite Sirah,US,California,red
+158829,red,Cabernet Sauvignon,US,Washington,red
+158878,red,Cabernet Sauvignon,Chile,Casablanca Valley,red
+159154,red,Pinot Noir,US,Oregon,red
+159160,red,Pinot Noir,US,California,red
+159519,red,Malbec,Argentina,Mendoza Province,red
+159935,white,Pinot Grigio,Italy,Northeastern Italy,white
+160076,red,Pinot Noir,France,Burgundy,red
+160183,red,Bordeaux-style Red Blend,US,California,red
+160198,red,Malbec,Chile,Rapel Valley,red
+160252,white,Chardonnay,US,Washington,white
+160413,white,Grüner Veltliner,Austria,Kremstal,white
+160423,red,Cabernet Sauvignon,US,California,red
+160442,red,Sangiovese,Italy,Tuscany,red
+160446,red,Bordeaux-style Red Blend,France,Bordeaux,red
+160522,red,Pinot Noir,US,California,red
+160576,white,Sauvignon Blanc,Slovenia,Slovenia,white
+160663,white,Grüner Veltliner,Austria,Kremstal,white
+160747,red,Bordeaux-style Red Blend,US,Colorado,red
+160758,white,Sauvignon Blanc,France,Loire Valley,white
+160880,red,Red Blend,Chile,Chile,red
+161249,red,Pinot Noir,Chile,Lolol Valley,red
+161306,red,Garnacha,Spain,Northern Spain,red
+161598,red,Bordeaux-style Red Blend,US,Washington,red
+161727,red,Red Blend,Italy,Tuscany,red
+161835,white,Pinot Gris,US,Oregon,red
+161956,red,Portuguese Red,Portugal,Douro,red
+162523,white,Chardonnay,US,Washington,white
+162536,red,Nebbiolo,Italy,Piedmont,red
+162570,white,Chardonnay,US,Oregon,white
+162729,red,Pinot Noir,US,California,red
+162818,red,Red Blend,Australia,South Australia,red
+162910,red,Pinot Noir,US,California,red
+162929,red,Red Blend,US,Washington,red
+163013,red,Shiraz,South Africa,Wellington,red
+163021,red,Barbera,US,America,red
+163067,red,Red Blend,US,California,red
+163190,white,Albariño,US,California,white
+163250,red,Cabernet Sauvignon,US,California,red
+163370,white,White Blend,Italy,Veneto,white
+163405,white,Bordeaux-style White Blend,France,Bordeaux,white
+163424,red,Shiraz,Australia,South Australia,red
+163475,red,Cabernet Sauvignon,US,Washington,red
+163478,red,Red Blend,Italy,Sicily & Sardinia,red
+163671,red,Gamay,France,Beaujolais,red
+163691,red,Merlot,US,California,red
+163694,white,Riesling,Germany,Mosel,white
+163840,red,Bordeaux-style Red Blend,South Africa,Constantia,red
+163849,red,Bordeaux-style Red Blend,US,Washington,red
+163928,red,Shiraz,Australia,South Australia,red
+163983,red,Pinot Noir,France,Burgundy,red
+164286,red,Pinot Noir,US,California,red
+164979,red,Nero d'Avola,Italy,Sicily & Sardinia,red
+165057,red,Red Blend,Italy,Central Italy,red
+165144,red,Red Blend,US,California,red
+165236,red,Pinot Noir,US,Oregon,red
+165755,red,Pinot Noir,US,California,red
+166082,red,Tempranillo,Spain,Northern Spain,red
+166460,red,Pinot Noir,US,California,red
+166521,white,Riesling,US,New York,white
+166850,red,Red Blend,US,California,red
+166931,red,Merlot,Chile,Rapel Valley,red
+166932,white,Sauvignon Blanc,Italy,Northeastern Italy,white
+167230,white,Sauvignon Blanc,US,California,white
+167290,red,Red Blend,Italy,Southern Italy,red
+167310,red,Bordeaux-style Red Blend,France,Bordeaux,red
+167421,white,Pinot Grigio,Italy,Northeastern Italy,white
+167644,red,Red Blend,Italy,Tuscany,red
+167655,red,Sangiovese,Italy,Tuscany,red
+167668,red,Bordeaux-style Red Blend,France,Bordeaux,red
+168064,red,Gamay,France,Beaujolais,red
+168193,white,Pinot Gris,US,California,white
+168303,red,Red Blend,France,Southwest France,red
+168318,white,Chardonnay,Australia,Victoria,white
+168363,red,Red Blend,US,Washington,red
+168382,red,Rhône-style Red Blend,France,Rhône Valley,red
+168416,red,Cabernet Sauvignon,US,Washington,red
+168535,red,Red Blend,France,Loire Valley,red
+168564,red,Cabernet Sauvignon,US,California,red
+168569,white,Riesling,Germany,Mosel-Saar-Ruwer,white
+168615,red,Tempranillo,Spain,Central Spain,red
+168807,white,Riesling,Austria,Kremstal,white
+169027,red,Pinot Noir,Bulgaria,Thracian Valley,red
+169118,white,Chardonnay,US,California,white
+169135,red,Red Blend,Italy,Veneto,red

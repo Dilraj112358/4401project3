@@ -2,6 +2,27 @@
 
 Predict red versus white wine from review text and explain the differences and similarities in review language.
 
+## Completed audit and final evaluation
+
+Start with [`bordeaux_results.ipynb`](bordeaux_results.ipynb) for the saved results,
+or the [analysis handoff](analysis_results/README.md) for methods, comparisons,
+language findings, and limitations. [`bordeaux_analysis.py`](bordeaux_analysis.py)
+implements the audit, development comparisons, and locked final evaluation;
+`requirements-analysis.txt` records the environment.
+
+The selected all-region TF-IDF linear SVM was trained on 81,141 audited reviews.
+It achieved 99.06% validation accuracy and 99.22% accuracy / 0.9871 macro F1 on
+2,063 recovered holdout reviews. These measure agreement with retained proxy
+labels. The holdout excludes reconstructed historical training/validation
+exposure and exposed wine families; earlier whole-data aggregate EDA means it is
+not a pristine external test set. Read the [label audit](analysis_results/LABEL_AUDIT.md)
+and [validation error review](analysis_results/VALIDATION_ERROR_REVIEW.md).
+
+The earlier notebooks and historical summary below are retained. Their original
+populations differ from the audited analysis, so compare their scores separately.
+The final evaluation is already complete; use saved results rather than rerunning
+or tuning against that holdout.
+
 ## Run order
 
 1. `minh_eda.ipynb`: prepare the combined, deduplicated data and save `df_combined.parquet`.

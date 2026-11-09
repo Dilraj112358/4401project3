@@ -1,0 +1,3 @@
+stage,model,group,rows,accuracy,balanced_accuracy,macro_f1
+allregion_full,Linear SVM,Outside California,1373,0.9898033503277495,0.9883457062275101,0.984542366557086
+allregion_full,Linear SVM,California,690,0.9971014492753624,0.998324958123953,0.9938419248893331

@@ -1,0 +1,73 @@
+{
+  "model": "Linear SVM",
+  "stage": "allregion_full",
+  "holdout_description": "Recovered predictive holdout only; exclude exposed review text and wine families, apply frozen style rules, then evaluate once. Do not claim a pristine external holdout.",
+  "eligible_before_label_rules": 2517,
+  "excluded_by_label_rules": 454,
+  "class_counts": {
+    "red": 1687,
+    "white": 376
+  },
+  "metrics": {
+    "rows": 2063,
+    "accuracy": 0.9922443044110518,
+    "balanced_accuracy": 0.9911242416980919,
+    "macro_f1": 0.9870969759514652
+  },
+  "bootstrap_95pct_intervals": {
+    "accuracy": {
+      "low": 0.9883664566165778,
+      "high": 0.9956374212312167
+    },
+    "balanced_accuracy": {
+      "low": 0.9851480856742068,
+      "high": 0.996002755741654
+    },
+    "macro_f1": {
+      "low": 0.9804102626724368,
+      "high": 0.9928795732243559
+    }
+  },
+  "interval_method": "2000 multinomial bootstrap replicates of the empirical confusion matrix; equivalent to resampling independent review-level (actual,predicted) pairs. Conditional on frozen model and retained population.",
+  "classification_report": {
+    "red": {
+      "precision": 0.9976176295413937,
+      "recall": 0.992886781268524,
+      "f1-score": 0.9952465834818776,
+      "support": 1687.0
+    },
+    "white": {
+      "precision": 0.96875,
+      "recall": 0.9893617021276596,
+      "f1-score": 0.9789473684210527,
+      "support": 376.0
+    },
+    "accuracy": 0.9922443044110518,
+    "macro avg": {
+      "precision": 0.9831838147706968,
+      "recall": 0.9911242416980919,
+      "f1-score": 0.9870969759514652,
+      "support": 2063.0
+    },
+    "weighted avg": {
+      "precision": 0.9923562486846007,
+      "recall": 0.9922443044110518,
+      "f1-score": 0.9922759073486395,
+      "support": 2063.0
+    }
+  },
+  "confusion_matrix_labels": [
+    "red",
+    "white"
+  ],
+  "confusion_matrix": [
+    [
+      1675,
+      12
+    ],
+    [
+      4,
+      372
+    ]
+  ]
+}

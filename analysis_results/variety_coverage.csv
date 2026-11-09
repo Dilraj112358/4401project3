@@ -1,0 +1,1240 @@
+partition,variety,retained,rows
+train,Abouriou,False,2
+train,Agiorgitiko,False,59
+train,Aglianico,False,9
+train,Aglianico,True,264
+train,Airen,False,1
+train,Albana,False,17
+train,Albariño,False,2
+train,Albariño,True,350
+train,Aleatico,False,6
+train,Alfrocheiro,False,11
+train,Alicante,False,5
+train,Alicante Bouschet,False,38
+train,Aligoté,False,17
+train,Alsace white blend,False,41
+train,Altesse,False,2
+train,Alvarelhão,False,1
+train,Alvarinho,False,95
+train,Alvarinho-Chardonnay,False,2
+train,Angevine,False,2
+train,Ansonica,False,3
+train,Antão Vaz,False,12
+train,Aragonez,False,9
+train,Aragonês,False,10
+train,Argaman,False,1
+train,Arinto,False,56
+train,Arneis,False,63
+train,Asprinio,False,2
+train,Assyrtico,False,37
+train,Assyrtiko,False,12
+train,Athiri,False,1
+train,Austrian Red Blend,False,51
+train,Austrian white blend,False,48
+train,Auxerrois,False,20
+train,Avesso,False,6
+train,Azal,False,2
+train,Babić,False,2
+train,Babosa Negro,False,1
+train,Bacchus,False,1
+train,Baco Noir,False,10
+train,Baga,False,21
+train,Barbera,False,5
+train,Barbera,True,535
+train,Bastardo,False,3
+train,Biancolella,False,1
+train,Bical,False,7
+train,Black Monukka,False,2
+train,Black Muscat,False,11
+train,Blanc du Bois,False,2
+train,Blatina,False,2
+train,Blauburger,False,1
+train,Blauer Portugieser,False,1
+train,Blaufränkisch,False,170
+train,Bobal,False,17
+train,Bombino Bianco,False,2
+train,Bombino Nero,False,1
+train,Bonarda,False,105
+train,Bordeaux-style Red Blend,False,34
+train,Bordeaux-style Red Blend,True,5408
+train,Bordeaux-style White Blend,False,95
+train,Bordeaux-style White Blend,True,759
+train,Bovale,False,4
+train,Boğazkere,False,2
+train,Brachetto,False,14
+train,Braucol,False,3
+train,Bual,False,4
+train,Cabernet,False,8
+train,Cabernet Blend,False,136
+train,Cabernet Franc,False,42
+train,Cabernet Franc,True,962
+train,Cabernet Franc-Cabernet Sauvignon,False,10
+train,Cabernet Franc-Carmenère,False,2
+train,Cabernet Franc-Malbec,False,4
+train,Cabernet Franc-Merlot,False,11
+train,Cabernet Merlot,False,22
+train,Cabernet Sauvignon,False,50
+train,Cabernet Sauvignon,True,7916
+train,Cabernet Sauvignon Grenache,False,2
+train,Cabernet Sauvignon-Barbera,False,1
+train,Cabernet Sauvignon-Cabernet Franc,False,24
+train,Cabernet Sauvignon-Carmenère,False,31
+train,Cabernet Sauvignon-Malbec,False,28
+train,Cabernet Sauvignon-Merlot,False,134
+train,Cabernet Sauvignon-Merlot-Shiraz,False,1
+train,Cabernet Sauvignon-Sangiovese,False,7
+train,Cabernet Sauvignon-Shiraz,False,43
+train,Cabernet Sauvignon-Syrah,False,90
+train,Cabernet Sauvignon-Tempranillo,False,9
+train,Cabernet-Malbec,False,1
+train,Cabernet-Shiraz,False,2
+train,Cabernet-Syrah,False,9
+train,Canaiolo,False,2
+train,Cannonau,False,29
+train,Caprettone,False,1
+train,Carcajolu,False,1
+train,Carignan,False,53
+train,Carignan-Grenache,False,4
+train,Carignan-Syrah,False,2
+train,Carignane,False,20
+train,Carignano,False,32
+train,Carineña,False,3
+train,Cariñena-Garnacha,False,2
+train,Carmenère,False,1
+train,Carmenère,True,500
+train,Carmenère-Cabernet Sauvignon,False,10
+train,Carmenère-Syrah,False,8
+train,Carnelian,False,1
+train,Carricante,False,20
+train,Casavecchia,False,4
+train,Castelão,False,24
+train,Catarratto,False,17
+train,Cayuga,False,3
+train,Cerceal,False,3
+train,Cercial,False,1
+train,Cesanese,False,1
+train,Cesanese d'Affile,False,7
+train,Chambourcin,False,14
+train,Champagne Blend,False,1104
+train,Charbono,False,24
+train,Chardonel,False,1
+train,Chardonnay,False,429
+train,Chardonnay,True,9007
+train,Chardonnay Weissburgunder,False,2
+train,Chardonnay-Albariño,False,2
+train,Chardonnay-Pinot Blanc,False,3
+train,Chardonnay-Pinot Grigio,False,1
+train,Chardonnay-Pinot Gris,False,2
+train,Chardonnay-Riesling,False,1
+train,Chardonnay-Sauvignon,False,6
+train,Chardonnay-Sauvignon Blanc,False,2
+train,Chardonnay-Semillon,False,5
+train,Chardonnay-Viognier,False,33
+train,Chasselas,False,5
+train,Chelois,False,1
+train,Chenin Blanc,False,49
+train,Chenin Blanc,True,418
+train,Chenin Blanc-Chardonnay,False,29
+train,Chenin Blanc-Sauvignon Blanc,False,2
+train,Chenin Blanc-Viognier,False,6
+train,Chinuri,False,2
+train,Ciliegiolo,False,3
+train,Cinsault,False,26
+train,Clairette,False,2
+train,Claret,False,19
+train,Cococciola,False,1
+train,Coda di Volpe,False,14
+train,Colombard,False,17
+train,Colombard-Sauvignon Blanc,False,14
+train,Colombard-Ugni Blanc,False,4
+train,Colorino,False,1
+train,Cortese,False,54
+train,Corvina,False,11
+train,"Corvina, Rondinella, Molinara",False,735
+train,Counoise,False,10
+train,Crespiello,False,1
+train,Cserszegi Fűszeres,False,2
+train,Códega do Larinho,False,3
+train,Dafni,False,1
+train,Debit,False,4
+train,Diamond,False,1
+train,Dolcetto,False,141
+train,Dornfelder,False,20
+train,Duras,False,6
+train,Durella,False,5
+train,Durello,False,1
+train,Durif,False,3
+train,Edelzwicker,False,2
+train,Ekigaïna,False,1
+train,Elbling,False,1
+train,Emir,False,2
+train,Enantio,False,1
+train,Encruzado,False,20
+train,Erbaluce,False,3
+train,Espadeiro,False,1
+train,Falanghina,False,68
+train,Favorita,False,1
+train,Fer Servadou,False,1
+train,Fernão Pires,False,17
+train,Feteasca,False,2
+train,Feteasca Neagra,False,8
+train,Feteascǎ Regalǎ,False,4
+train,Fiano,False,98
+train,Folle Blanche,False,1
+train,Forcallà,False,1
+train,Frappato,False,25
+train,Freisa,False,2
+train,Friulano,False,89
+train,Fumé Blanc,False,72
+train,Furmint,False,36
+train,G-S-M,False,138
+train,Gaglioppo,False,15
+train,Gamay,False,16
+train,Gamay,True,630
+train,Gamay Noir,False,18
+train,Gamza,False,1
+train,Garganega,False,8
+train,Garganega,True,208
+train,Garnacha,False,20
+train,Garnacha,True,237
+train,Garnacha Blanca,False,18
+train,Garnacha Blend,False,1
+train,Garnacha Tintorera,False,2
+train,Garnacha-Cabernet,False,2
+train,Garnacha-Cariñena,False,1
+train,Garnacha-Monastrell,False,3
+train,Garnacha-Syrah,False,12
+train,Garnacha-Tempranillo,False,2
+train,Gelber Muskateller,False,26
+train,Gelber Traminer,False,1
+train,Gewürztraminer,False,46
+train,Gewürztraminer,True,717
+train,Gewürztraminer-Riesling,False,7
+train,Glera,False,510
+train,Godello,False,62
+train,Gouveio,False,2
+train,Graciano,False,31
+train,Gragnano,False,1
+train,Grauburgunder,False,11
+train,Graševina,False,1
+train,Grecanico,False,2
+train,Grechetto,False,11
+train,Greco,False,71
+train,Greco Bianco,False,5
+train,Grenache,False,38
+train,Grenache,True,440
+train,Grenache Blanc,False,98
+train,Grenache Blend,False,3
+train,Grenache Noir,False,3
+train,Grenache-Carignan,False,13
+train,Grenache-Mourvèdre,False,4
+train,Grenache-Shiraz,False,8
+train,Grenache-Syrah,False,43
+train,Grignolino,False,1
+train,Grillo,False,88
+train,Groppello,False,1
+train,Gros Manseng,False,11
+train,Gros and Petit Manseng,False,30
+train,Grüner Veltliner,False,25
+train,Grüner Veltliner,True,854
+train,Hondarrabi Zuri,False,12
+train,Hárslevelü,False,2
+train,Incrocio Manzoni,False,1
+train,Insolia,False,27
+train,Inzolia,False,22
+train,Jacquez,False,3
+train,Jacquère,False,15
+train,Jaen,False,6
+train,Johannisberg Riesling,False,13
+train,Kadarka,False,1
+train,Kalecik Karasi,False,9
+train,Kekfrankos,False,3
+train,Kerner,False,16
+train,Kinali Yapincak,False,1
+train,Királyleányka,False,1
+train,Kisi,False,2
+train,Koshu,False,1
+train,Kotsifali,False,1
+train,Lacrima,False,2
+train,Lagrein,False,49
+train,Lambrusco,False,41
+train,Lambrusco Grasparossa,False,9
+train,Lambrusco Salamino,False,2
+train,Lambrusco di Sorbara,False,12
+train,Lemberger,False,31
+train,Listán Negro,False,1
+train,Loin de l'Oeil,False,4
+train,Loureiro,False,27
+train,Loureiro-Arinto,False,1
+train,Macabeo,False,14
+train,Macabeo-Chardonnay,False,4
+train,Macabeo-Gewürztraminer,False,1
+train,Macabeo-Moscatel,False,2
+train,Madeleine Angevine,False,1
+train,Magliocco,False,3
+train,Malagousia,False,8
+train,Malagouzia,False,1
+train,Malagouzia-Chardonnay,False,1
+train,Malbec,False,26
+train,Malbec,True,2036
+train,Malbec Blend,False,3
+train,Malbec-Bonarda,False,5
+train,Malbec-Cabernet,False,2
+train,Malbec-Cabernet Franc,False,9
+train,Malbec-Cabernet Sauvignon,False,48
+train,Malbec-Carménère,False,1
+train,Malbec-Merlot,False,66
+train,Malbec-Petit Verdot,False,1
+train,Malbec-Syrah,False,13
+train,Malbec-Tannat,False,11
+train,Malbec-Tempranillo,False,2
+train,Malmsey,False,2
+train,Malvar,False,2
+train,Malvasia,False,41
+train,Malvasia Bianca,False,16
+train,Malvasia Fina,False,3
+train,Malvasia Istriana,False,5
+train,Malvasia Nera,False,3
+train,Malvasia di Candia,False,2
+train,Malvazija,False,1
+train,Mandilaria,False,2
+train,Mansois,False,3
+train,Mantonico,False,6
+train,Manzoni,False,6
+train,Marawi,False,1
+train,Maria Gomes-Bical,False,1
+train,Marquette,False,2
+train,Marsanne,False,72
+train,Marsanne-Roussanne,False,18
+train,Marsanne-Viognier,False,3
+train,Marselan,False,1
+train,Marzemino,False,4
+train,Mataro,False,5
+train,Maturana,False,5
+train,Mauzac,False,3
+train,Mavrodaphne,False,6
+train,Mavrotragano,False,1
+train,Mavroudi,False,2
+train,Mavrud,False,5
+train,Mazuelo,False,2
+train,Melnik,False,3
+train,Melon,False,182
+train,Mencía,False,124
+train,Meoru,False,2
+train,Meritage,False,202
+train,Merlot,False,25
+train,Merlot,True,2846
+train,Merlot-Argaman,False,2
+train,Merlot-Cabernet,False,5
+train,Merlot-Cabernet Franc,False,19
+train,Merlot-Cabernet Sauvignon,False,44
+train,Merlot-Grenache,False,2
+train,Merlot-Malbec,False,7
+train,Merlot-Petite Verdot,False,1
+train,Merlot-Syrah,False,1
+train,Merlot-Tannat,False,1
+train,Mission,False,5
+train,Monastrell,False,98
+train,Monastrell-Petit Verdot,False,2
+train,Monastrell-Syrah,False,16
+train,Mondeuse,False,10
+train,Monica,False,2
+train,Montepulciano,False,3
+train,Montepulciano,True,157
+train,Morillon,False,2
+train,Morio Muskat,False,3
+train,Moscadello,False,6
+train,Moscatel,False,35
+train,Moscatel Graúdo,False,1
+train,Moscatel Roxo,False,4
+train,Moscatel de Alejandría,False,1
+train,Moscato,False,268
+train,Moscato Giallo,False,10
+train,Moscato Rosa,False,1
+train,Moschofilero,False,30
+train,Moschofilero-Chardonnay,False,1
+train,Mourvèdre,False,155
+train,Mourvèdre-Syrah,False,3
+train,Mtsvane,False,3
+train,Muscadel,False,4
+train,Muscadelle,False,6
+train,Muscadet,False,2
+train,Muscadine,False,2
+train,Muscat,False,106
+train,Muscat Blanc,False,9
+train,Muscat Blanc à Petit Grain,False,5
+train,Muscat Canelli,False,29
+train,Muscat Hamburg,False,2
+train,Muscat d'Alexandrie,False,2
+train,Muscatel,False,2
+train,Muskat,False,2
+train,Muskat Ottonel,False,11
+train,Muskateller,False,3
+train,Müller-Thurgau,False,23
+train,Narince,False,5
+train,Nascetta,False,3
+train,Nasco,False,5
+train,Nebbiolo,False,27
+train,Nebbiolo,True,1852
+train,Negrette,False,11
+train,Negroamaro,False,70
+train,Nerello Cappuccio,False,5
+train,Nerello Mascalese,False,80
+train,Nero d'Avola,False,5
+train,Nero d'Avola,True,294
+train,Nero di Troia,False,11
+train,Neuburger,False,6
+train,Nielluciu,False,3
+train,Norton,False,10
+train,Nosiola,False,7
+train,Nuragus,False,6
+train,Ojaleshi,False,1
+train,Okuzgozu,False,3
+train,Ondenc,False,1
+train,Orange Muscat,False,17
+train,Orangetraube,False,1
+train,Otskhanuri Sapere,False,1
+train,Pallagrello Bianco,False,4
+train,Pallagrello Nero,False,4
+train,Palomino,False,15
+train,Pansa Blanca,False,10
+train,Papaskarasi,False,1
+train,Pardina,False,1
+train,Parraleta,False,1
+train,Passerina,False,15
+train,País,False,1
+train,Pecorino,False,33
+train,Pedro Ximénez,False,36
+train,Pelaverga Piccolo,False,1
+train,Perricone,False,9
+train,Petit Courbu,False,1
+train,Petit Manseng,False,41
+train,Petit Meslier,False,1
+train,Petit Verdot,False,184
+train,Petite Sirah,False,10
+train,Petite Sirah,True,605
+train,Petite Syrah,False,1
+train,Petite Verdot,False,28
+train,Petroulianos,False,1
+train,Picapoll,False,1
+train,Picolit,False,20
+train,Picpoul,False,9
+train,Pied de Perdrix,False,1
+train,Piedirosso,False,18
+train,Pignoletto,False,3
+train,Pignolo,False,1
+train,Pineau d'Aunis,False,2
+train,Pinot Auxerrois,False,8
+train,Pinot Bianco,False,110
+train,Pinot Blanc,False,19
+train,Pinot Blanc,True,310
+train,Pinot Blanc-Chardonnay,False,3
+train,Pinot Blanc-Viognier,False,1
+train,Pinot Grigio,False,18
+train,Pinot Grigio,True,812
+train,Pinot Grigio-Chardonnay,False,1
+train,Pinot Grigio-Sauvignon Blanc,False,1
+train,Pinot Gris,False,25
+train,Pinot Gris,True,1004
+train,Pinot Gris-Gewürztraminer,False,1
+train,Pinot Meunier,False,26
+train,Pinot Nero,False,125
+train,Pinot Noir,False,326
+train,Pinot Noir,True,9639
+train,Pinot Noir-Gamay,False,11
+train,Pinot Noir-Syrah,False,2
+train,Pinot-Chardonnay,False,6
+train,Pinotage,False,120
+train,Pinotage-Merlot,False,1
+train,Piquepoul Blanc,False,1
+train,Plavac Mali,False,13
+train,Plyto,False,1
+train,Port,False,660
+train,Portuguese Red,False,9
+train,Portuguese Red,True,1762
+train,Portuguese Rosé,False,9
+train,Portuguese Sparkling,False,46
+train,Portuguese White,False,19
+train,Portuguese White,True,785
+train,Portuguiser,False,1
+train,Posip,False,5
+train,Poulsard,False,2
+train,Prieto Picudo,False,14
+train,Primitivo,False,164
+train,Prié Blanc,False,2
+train,Prokupac,False,2
+train,Prosecco,False,271
+train,Provence red blend,False,32
+train,Provence white blend,False,14
+train,Prugnolo Gentile,False,47
+train,Pugnitello,False,1
+train,Rabigato,False,1
+train,Raboso,False,12
+train,Ramisco,False,1
+train,Rara Neagra,False,2
+train,Rebo,False,2
+train,Rebula,False,2
+train,Red Blend,False,67
+train,Red Blend,True,6697
+train,Refosco,False,8
+train,Rhône-style Red Blend,False,8
+train,Rhône-style Red Blend,True,1119
+train,Rhône-style White Blend,False,6
+train,Rhône-style White Blend,True,305
+train,Ribolla Gialla,False,56
+train,Rieslaner,False,6
+train,Riesling,False,277
+train,Riesling,True,3686
+train,Riesling-Chardonnay,False,1
+train,Rivaner,False,3
+train,Rkatsiteli,False,17
+train,Roditis,False,9
+train,Roditis-Moschofilero,False,1
+train,Rolle,False,2
+train,Romorantin,False,2
+train,Rosado,False,47
+train,Rosato,False,53
+train,Roscetto,False,2
+train,Rosenmuskateller,False,1
+train,Rosé,False,2355
+train,Roter Traminer,False,5
+train,Roter Veltliner,False,13
+train,Rotgipfler,False,8
+train,Roussanne,False,139
+train,Roussanne-Grenache Blanc,False,1
+train,Roussanne-Marsanne,False,4
+train,Roussanne-Viognier,False,13
+train,Ruché,False,9
+train,Rufete,False,2
+train,Sacy,False,2
+train,Sagrantino,False,93
+train,Sangiovese,False,56
+train,Sangiovese,True,2083
+train,Sangiovese Cabernet,False,2
+train,Sangiovese Grosso,False,2
+train,Sangiovese Grosso,True,662
+train,Sangiovese-Cabernet Sauvignon,False,4
+train,Sangiovese-Syrah,False,2
+train,Saperavi,False,25
+train,Saperavi-Merlot,False,2
+train,Sarba,False,1
+train,Sauvignon,False,226
+train,Sauvignon Blanc,False,48
+train,Sauvignon Blanc,True,4078
+train,Sauvignon Blanc-Assyrtiko,False,1
+train,Sauvignon Blanc-Chardonnay,False,7
+train,Sauvignon Blanc-Sauvignon Gris,False,1
+train,Sauvignon Blanc-Semillon,False,58
+train,Sauvignon Blanc-Verdejo,False,4
+train,Sauvignon Gris,False,6
+train,Sauvignon Musqué,False,2
+train,Savagnin,False,14
+train,Savatiano,False,4
+train,Scheurebe,False,22
+train,Schiava,False,12
+train,Sciaccerellu,False,2
+train,Segalin,False,1
+train,Semillon-Chardonnay,False,9
+train,Semillon-Sauvignon Blanc,False,46
+train,Sercial,False,3
+train,Seyval Blanc,False,10
+train,Shiraz,False,16
+train,Shiraz,True,968
+train,Shiraz-Cabernet,False,2
+train,Shiraz-Cabernet Sauvignon,False,47
+train,Shiraz-Grenache,False,14
+train,Shiraz-Malbec,False,3
+train,Shiraz-Merlot,False,1
+train,Shiraz-Mourvèdre,False,2
+train,Shiraz-Pinotage,False,2
+train,Shiraz-Tempranillo,False,6
+train,Shiraz-Viognier,False,44
+train,Siegerrebe,False,1
+train,Silvaner,False,28
+train,Siria,False,8
+train,Sirica,False,2
+train,Sousão,False,4
+train,Sparkling Blend,False,1548
+train,Spätburgunder,False,46
+train,St. George,False,1
+train,St. Laurent,False,57
+train,Steen,False,1
+train,Susumaniello,False,5
+train,Sylvaner,False,34
+train,Symphony,False,2
+train,Syrah,False,63
+train,Syrah,True,3354
+train,Syrah-Bonarda,False,1
+train,Syrah-Cabernet,False,20
+train,Syrah-Cabernet Franc,False,1
+train,Syrah-Cabernet Sauvignon,False,25
+train,Syrah-Carignan,False,3
+train,Syrah-Grenache,False,38
+train,Syrah-Grenache-Viognier,False,3
+train,Syrah-Merlot,False,4
+train,Syrah-Mourvèdre,False,10
+train,Syrah-Petit Verdot,False,1
+train,Syrah-Petite Sirah,False,14
+train,Syrah-Tempranillo,False,6
+train,Syrah-Viognier,False,12
+train,Sämling,False,5
+train,Sémillon,False,19
+train,Sémillon,True,111
+train,Tamjanika,False,1
+train,Tannat,False,120
+train,Tannat-Cabernet,False,21
+train,Tannat-Cabernet Franc,False,9
+train,Tannat-Merlot,False,8
+train,Tannat-Syrah,False,3
+train,Tempranillo,False,21
+train,Tempranillo,True,1471
+train,Tempranillo Blanco,False,8
+train,Tempranillo Blend,False,503
+train,Tempranillo-Cabernet Sauvignon,False,46
+train,Tempranillo-Garnacha,False,30
+train,Tempranillo-Malbec,False,1
+train,Tempranillo-Merlot,False,8
+train,Tempranillo-Shiraz,False,7
+train,Tempranillo-Syrah,False,2
+train,Tempranillo-Tannat,False,1
+train,Teran,False,4
+train,Teroldego,False,22
+train,Terrantez,False,1
+train,Thrapsathiri,False,1
+train,Timorasso,False,2
+train,Tinta Barroca,False,4
+train,Tinta Cao,False,1
+train,Tinta Fina,False,7
+train,Tinta Francisca,False,2
+train,Tinta Madeira,False,1
+train,Tinta Miúda,False,2
+train,Tinta Roriz,False,11
+train,Tinta de Toro,False,129
+train,Tinta del Pais,False,1
+train,Tinta del Toro,False,2
+train,Tinto Fino,False,66
+train,Tinto Velasco,False,1
+train,Tinto del Pais,False,41
+train,Tocai,False,4
+train,Tocai Friulano,False,22
+train,Tocai Rosso,False,1
+train,Tokay Pinot Gris,False,3
+train,Torbato,False,1
+train,Torontel,False,1
+train,Torrontés,False,3
+train,Torrontés,True,209
+train,Touriga,False,1
+train,Touriga Franca,False,4
+train,Touriga Nacional,False,144
+train,Touriga Nacional Blend,False,15
+train,Touriga Nacional-Cabernet Sauvignon,False,22
+train,Trajadura,False,1
+train,Traminer,False,32
+train,Traminette,False,6
+train,Trebbiano,False,39
+train,Trebbiano Spoletino,False,4
+train,Trebbiano di Lugana,False,6
+train,Trebbiano-Malvasia,False,2
+train,Treixadura,False,1
+train,Trepat,False,7
+train,Trincadeira,False,13
+train,Trollinger,False,1
+train,Trousseau,False,4
+train,Trousseau Gris,False,1
+train,Turbiana,False,95
+train,Ugni Blanc,False,3
+train,Ugni Blanc-Colombard,False,9
+train,Uva di Troia,False,7
+train,Uvalino,False,1
+train,Valdiguié,False,6
+train,Valvin Muscat,False,1
+train,Veltliner,False,2
+train,Verdeca,False,3
+train,Verdejo,True,234
+train,Verdejo-Sauvignon Blanc,False,4
+train,Verdejo-Viura,False,14
+train,Verdelho,False,47
+train,Verdicchio,False,112
+train,Verduzzo,False,4
+train,Verduzzo Friulano ,False,5
+train,Vermentino,False,2
+train,Vermentino,True,161
+train,Vernaccia,False,100
+train,Vespaiolo,False,2
+train,Vidadillo,False,1
+train,Vidal,False,10
+train,Vidal Blanc,False,38
+train,Vignoles,False,7
+train,Vilana,False,3
+train,Vinhão,False,4
+train,Viognier,False,31
+train,Viognier,True,790
+train,Viognier-Chardonnay,False,10
+train,Viognier-Gewürztraminer,False,1
+train,Viognier-Grenache Blanc,False,2
+train,Viognier-Marsanne,False,5
+train,Viognier-Roussanne,False,10
+train,Viosinho,False,1
+train,Vital,False,1
+train,Vitovska,False,2
+train,Viura,False,91
+train,Viura-Chardonnay,False,9
+train,Viura-Sauvignon Blanc,False,1
+train,Viura-Verdejo,False,1
+train,Vranac,False,1
+train,Vranec,False,8
+train,Weissburgunder,False,38
+train,Welschriesling,False,20
+train,White Blend,False,150
+train,White Blend,True,1681
+train,White Port,False,2
+train,White Riesling,False,20
+train,Xarel-lo,False,22
+train,Xinisteri,False,1
+train,Xinomavro,False,31
+train,Xynisteri,False,1
+train,Yapincak,False,2
+train,Zelen,False,1
+train,Zibibbo,False,18
+train,Zierfandler,False,9
+train,Zierfandler-Rotgipfler,False,4
+train,Zinfandel,False,59
+train,Zinfandel,True,2227
+train,Zlahtina,False,1
+train,Zweigelt,False,142
+train,Žilavka,False,1
+validation,Agiorgitiko,False,19
+validation,Aglianico,False,4
+validation,Aglianico,True,87
+validation,Aidani,False,1
+validation,Airen,False,2
+validation,Albana,False,7
+validation,Albanello,False,1
+validation,Albariño,False,1
+validation,Albariño,True,126
+validation,Aleatico,False,2
+validation,Alfrocheiro,False,4
+validation,Alicante,False,1
+validation,Alicante Bouschet,False,14
+validation,Aligoté,False,11
+validation,Alsace white blend,False,16
+validation,Altesse,False,2
+validation,Alvarelhão,False,1
+validation,Alvarinho,False,37
+validation,Alvarinho-Chardonnay,False,2
+validation,Ansonica,False,1
+validation,Antão Vaz,False,3
+validation,Aragonez,False,1
+validation,Aragonês,False,3
+validation,Argaman,False,1
+validation,Arinto,False,15
+validation,Arneis,False,13
+validation,Assyrtico,False,12
+validation,Assyrtiko,False,3
+validation,Austrian Red Blend,False,13
+validation,Austrian white blend,False,19
+validation,Auxerrois,False,4
+validation,Avesso,False,1
+validation,Babić,False,2
+validation,Baco Noir,False,2
+validation,Baga,False,7
+validation,Barbera,False,2
+validation,Barbera,True,181
+validation,Barbera-Nebbiolo,False,1
+validation,Biancale,False,1
+validation,Bical,False,2
+validation,Black Muscat,False,2
+validation,Blanc du Bois,False,2
+validation,Blauburgunder,False,1
+validation,Blauer Portugieser,False,1
+validation,Blaufränkisch,False,60
+validation,Bobal,False,4
+validation,Bobal-Cabernet Sauvignon,False,1
+validation,Bonarda,False,26
+validation,Bordeaux-style Red Blend,False,11
+validation,Bordeaux-style Red Blend,True,1730
+validation,Bordeaux-style White Blend,False,30
+validation,Bordeaux-style White Blend,True,254
+validation,Bovale,False,1
+validation,Boğazkere,False,3
+validation,Brachetto,False,4
+validation,Bual,False,3
+validation,Bukettraube,False,1
+validation,Cabernet,False,3
+validation,Cabernet Blend,False,42
+validation,Cabernet Franc,False,13
+validation,Cabernet Franc,True,339
+validation,Cabernet Franc-Cabernet Sauvignon,False,3
+validation,Cabernet Franc-Carmenère,False,1
+validation,Cabernet Franc-Lemberger,False,1
+validation,Cabernet Franc-Merlot,False,4
+validation,Cabernet Merlot,False,6
+validation,Cabernet Sauvignon,False,16
+validation,Cabernet Sauvignon,True,2613
+validation,Cabernet Sauvignon and Tinta Roriz,False,1
+validation,Cabernet Sauvignon-Cabernet Franc,False,9
+validation,Cabernet Sauvignon-Carmenère,False,12
+validation,Cabernet Sauvignon-Malbec,False,8
+validation,Cabernet Sauvignon-Merlot,False,48
+validation,Cabernet Sauvignon-Merlot-Shiraz,False,3
+validation,Cabernet Sauvignon-Sangiovese,False,5
+validation,Cabernet Sauvignon-Shiraz,False,14
+validation,Cabernet Sauvignon-Syrah,False,31
+validation,Cabernet Sauvignon-Tempranillo,False,1
+validation,Cabernet-Syrah,False,4
+validation,Canaiolo,False,1
+validation,Cannonau,False,6
+validation,Carignan,False,15
+validation,Carignan-Grenache,False,1
+validation,Carignane,False,8
+validation,Carignano,False,7
+validation,Carmenère,True,154
+validation,Carmenère-Cabernet Sauvignon,False,4
+validation,Carricante,False,10
+validation,Casavecchia,False,1
+validation,Castelão,False,7
+validation,Catarratto,False,7
+validation,Centesimino,False,1
+validation,Cerceal,False,2
+validation,Chambourcin,False,3
+validation,Champagne Blend,False,328
+validation,Chancellor,False,1
+validation,Charbono,False,10
+validation,Chardonelle,False,1
+validation,Chardonnay,False,155
+validation,Chardonnay,True,2935
+validation,Chardonnay-Albariño,False,1
+validation,Chardonnay-Pinot Blanc,False,2
+validation,Chardonnay-Sauvignon,False,3
+validation,Chardonnay-Sauvignon Blanc,False,2
+validation,Chardonnay-Semillon,False,3
+validation,Chardonnay-Viognier,False,11
+validation,Chasselas,False,1
+validation,Chelois,False,1
+validation,Chenin Blanc,False,14
+validation,Chenin Blanc,True,146
+validation,Chenin Blanc-Chardonnay,False,9
+validation,Chenin Blanc-Sauvignon Blanc,False,2
+validation,Chenin Blanc-Viognier,False,2
+validation,Chinuri,False,1
+validation,Ciliegiolo,False,3
+validation,Cinsault,False,12
+validation,Clairette,False,2
+validation,Claret,False,10
+validation,Coda di Volpe,False,3
+validation,Colombard,False,4
+validation,Colombard-Sauvignon Blanc,False,3
+validation,Colorino,False,2
+validation,Cortese,False,25
+validation,Corvina,False,7
+validation,"Corvina, Rondinella, Molinara",False,254
+validation,Counoise,False,4
+validation,Códega do Larinho,False,1
+validation,Dolcetto,False,52
+validation,Dornfelder,False,3
+validation,Duras,False,1
+validation,Durella,False,2
+validation,Edelzwicker,False,2
+validation,Elbling,False,1
+validation,Emir,False,1
+validation,Encruzado,False,10
+validation,Falanghina,False,20
+validation,Favorita,False,1
+validation,Fernão Pires,False,6
+validation,Feteasca,False,1
+validation,Feteasca Neagra,False,2
+validation,Feteascǎ Regalǎ,False,1
+validation,Fiano,False,33
+validation,Frappato,False,8
+validation,Friulano,False,31
+validation,Früburgunder,False,1
+validation,Fumé Blanc,False,22
+validation,Furmint,False,11
+validation,G-S-M,False,38
+validation,Gaglioppo,False,2
+validation,Gamay,False,3
+validation,Gamay,True,210
+validation,Gamay Noir,False,1
+validation,Garganega,False,3
+validation,Garganega,True,66
+validation,Garnacha,False,8
+validation,Garnacha,True,77
+validation,Garnacha Blanca,False,8
+validation,Garnacha Tintorera,False,5
+validation,Garnacha-Graciano,False,2
+validation,Garnacha-Syrah,False,2
+validation,Garnacha-Tempranillo,False,3
+validation,Gelber Muskateller,False,5
+validation,Gelber Traminer,False,1
+validation,Gewürztraminer,False,28
+validation,Gewürztraminer,True,228
+validation,Glera,False,175
+validation,Godello,False,25
+validation,Gouveio,False,1
+validation,Graciano,False,10
+validation,Gragnano,False,1
+validation,Grauburgunder,False,2
+validation,Grecanico,False,4
+validation,Grechetto,False,3
+validation,Greco,False,27
+validation,Greco Bianco,False,1
+validation,Grenache,False,15
+validation,Grenache,True,148
+validation,Grenache Blanc,False,23
+validation,Grenache Blend,False,1
+validation,Grenache-Carignan,False,3
+validation,Grenache-Mourvèdre,False,1
+validation,Grenache-Shiraz,False,3
+validation,Grenache-Syrah,False,12
+validation,Grignolino,False,1
+validation,Grillo,False,40
+validation,Grolleau,False,1
+validation,Gros Manseng,False,5
+validation,Gros Plant,False,1
+validation,Gros and Petit Manseng,False,13
+validation,Grüner Veltliner,False,7
+validation,Grüner Veltliner,True,306
+validation,Hondarrabi Zuri,False,5
+validation,Hárslevelü,False,1
+validation,Incrocio Manzoni,False,1
+validation,Insolia,False,13
+validation,Inzolia,False,7
+validation,Irsai Oliver,False,1
+validation,Jacquère,False,4
+validation,Jaen,False,1
+validation,Johannisberg Riesling,False,3
+validation,Kadarka,False,1
+validation,Kangoun,False,1
+validation,Karalahna,False,1
+validation,Kekfrankos,False,8
+validation,Kerner,False,3
+validation,Kisi,False,2
+validation,Lagrein,False,17
+validation,Lambrusco,False,14
+validation,Lambrusco Grasparossa,False,4
+validation,Lambrusco di Sorbara,False,2
+validation,Lemberger,False,4
+validation,Loin de l'Oeil,False,4
+validation,Loureiro,False,10
+validation,Macabeo,False,4
+validation,Macabeo-Chardonnay,False,1
+validation,Malagousia,False,2
+validation,Malagouzia,False,1
+validation,Malbec,False,12
+validation,Malbec,True,680
+validation,Malbec-Bonarda,False,1
+validation,Malbec-Cabernet,False,1
+validation,Malbec-Cabernet Franc,False,1
+validation,Malbec-Cabernet Sauvignon,False,10
+validation,Malbec-Merlot,False,25
+validation,Malbec-Petit Verdot,False,1
+validation,Malbec-Syrah,False,5
+validation,Malbec-Tannat,False,2
+validation,Malvasia,False,6
+validation,Malvasia Bianca,False,3
+validation,Malvasia Fina,False,1
+validation,Malvasia Istriana,False,1
+validation,Malvasia Nera,False,1
+validation,Malvasia-Viura,False,2
+validation,Mansois,False,1
+validation,Mantonico,False,1
+validation,Marawi,False,1
+validation,Maria Gomes,False,1
+validation,Marsanne,False,22
+validation,Marsanne-Roussanne,False,6
+validation,Marselan,False,1
+validation,Maréchal Foch,False,1
+validation,Mataro,False,5
+validation,Maturana,False,1
+validation,Mauzac,False,3
+validation,Mavrodaphne,False,3
+validation,Mavrud,False,2
+validation,Mazuelo,False,2
+validation,Melon,False,48
+validation,Mencía,False,42
+validation,Meritage,False,72
+validation,Merlot,False,5
+validation,Merlot,True,915
+validation,Merlot-Cabernet,False,4
+validation,Merlot-Cabernet Franc,False,6
+validation,Merlot-Cabernet Sauvignon,False,8
+validation,Merlot-Malbec,False,5
+validation,Merlot-Syrah,False,1
+validation,Meseguera,False,1
+validation,Mission,False,2
+validation,Molinara,False,1
+validation,Monastrell,False,29
+validation,Monastrell-Syrah,False,3
+validation,Mondeuse,False,7
+validation,Monica,False,3
+validation,Montepulciano,False,1
+validation,Montepulciano,True,59
+validation,Morava,False,1
+validation,Morillon,False,3
+validation,Moscadello,False,2
+validation,Moscatel,False,17
+validation,Moscatel Roxo,False,1
+validation,Moscatel de Alejandría,False,2
+validation,Moscato,False,99
+validation,Moscato Giallo,False,7
+validation,Moschofilero,False,8
+validation,Moscofilero,False,1
+validation,Mourvèdre,False,55
+validation,Mtsvane,False,1
+validation,Muscadel,False,1
+validation,Muscadelle,False,2
+validation,Muscat,False,41
+validation,Muscat Blanc,False,3
+validation,Muscat Canelli,False,9
+validation,Muscat d'Alexandrie,False,1
+validation,Muscat of Alexandria,False,1
+validation,Muscatel,False,1
+validation,Muskat,False,1
+validation,Muskat Ottonel,False,6
+validation,Muskateller,False,1
+validation,Müller-Thurgau,False,14
+validation,Nascetta,False,1
+validation,Nebbiolo,False,6
+validation,Nebbiolo,True,626
+validation,Negrette,False,3
+validation,Negroamaro,False,16
+validation,Nerello Mascalese,False,24
+validation,Nero d'Avola,False,2
+validation,Nero d'Avola,True,90
+validation,Nero di Troia,False,4
+validation,Neuburger,False,2
+validation,Norton,False,4
+validation,Nuragus,False,1
+validation,Okuzgozu,False,2
+validation,Orange Muscat,False,8
+validation,Orangetraube,False,1
+validation,Pallagrello Bianco,False,1
+validation,Palomino,False,4
+validation,Pansa Blanca,False,2
+validation,Parraleta,False,1
+validation,Passerina,False,9
+validation,País,False,1
+validation,Pecorino,False,10
+validation,Pedro Ximénez,False,12
+validation,Perricone,False,1
+validation,Petit Manseng,False,9
+validation,Petit Verdot,False,56
+validation,Petite Sirah,False,3
+validation,Petite Sirah,True,184
+validation,Petite Verdot,False,10
+validation,Picolit,False,9
+validation,Picpoul,False,3
+validation,Piedirosso,False,6
+validation,Pigato,False,1
+validation,Pignoletto,False,1
+validation,Pinot Bianco,False,36
+validation,Pinot Blanc,False,5
+validation,Pinot Blanc,True,111
+validation,Pinot Blanc-Chardonnay,False,1
+validation,Pinot Grigio,False,12
+validation,Pinot Grigio,True,291
+validation,Pinot Gris,False,8
+validation,Pinot Gris,True,351
+validation,Pinot Meunier,False,9
+validation,Pinot Nero,False,40
+validation,Pinot Noir,False,112
+validation,Pinot Noir,True,3296
+validation,Pinot Noir-Gamay,False,5
+validation,Pinot Noir-Syrah,False,1
+validation,Pinotage,False,49
+validation,Plavac Mali,False,3
+validation,Plyto,False,1
+validation,Port,False,215
+validation,Portuguese Red,False,2
+validation,Portuguese Red,True,571
+validation,Portuguese Rosé,False,2
+validation,Portuguese Sparkling,False,8
+validation,Portuguese White,False,3
+validation,Portuguese White,True,243
+validation,Posip,False,1
+validation,Premsal,False,1
+validation,Prieto Picudo,False,5
+validation,Primitivo,False,62
+validation,Prié Blanc,False,2
+validation,Prosecco,False,91
+validation,Provence red blend,False,11
+validation,Provence white blend,False,11
+validation,Prugnolo Gentile,False,15
+validation,Prunelard,False,1
+validation,Pugnitello,False,1
+validation,Raboso,False,3
+validation,Red Blend,False,30
+validation,Red Blend,True,2250
+validation,Refosco,False,3
+validation,Rhône-style Red Blend,True,352
+validation,Rhône-style White Blend,False,4
+validation,Rhône-style White Blend,True,118
+validation,Ribolla Gialla,False,19
+validation,Rieslaner,False,1
+validation,Riesling,False,80
+validation,Riesling,True,1255
+validation,Rkatsiteli,False,7
+validation,Robola,False,1
+validation,Roditis,False,6
+validation,Rolle,False,1
+validation,Romorantin,False,1
+validation,Rosado,False,13
+validation,Rosato,False,20
+validation,Rosé,False,787
+validation,Roter Traminer,False,2
+validation,Roter Veltliner,False,1
+validation,Rotgipfler,False,6
+validation,Roussanne,False,34
+validation,Roussanne-Marsanne,False,2
+validation,Roussanne-Viognier,False,1
+validation,Roviello,False,1
+validation,Ruché,False,1
+validation,Ruen,False,1
+validation,Ryzlink Rýnský,False,1
+validation,Sagrantino,False,14
+validation,Sangiovese,False,17
+validation,Sangiovese,True,721
+validation,Sangiovese Grosso,True,201
+validation,Sangiovese-Cabernet Sauvignon,False,2
+validation,Sangiovese-Syrah,False,2
+validation,Saperavi,False,9
+validation,Sauvignon,False,62
+validation,Sauvignon Blanc,False,10
+validation,Sauvignon Blanc,True,1322
+validation,Sauvignon Blanc-Chardonnay,False,1
+validation,Sauvignon Blanc-Chenin Blanc,False,2
+validation,Sauvignon Blanc-Semillon,False,18
+validation,Sauvignon Gris,False,6
+validation,Sauvignonasse,False,1
+validation,Savagnin,False,4
+validation,Savatiano,False,2
+validation,Scheurebe,False,6
+validation,Schiava,False,6
+validation,Schwartzriesling,False,1
+validation,Sciaccerellu,False,2
+validation,Semillon-Chardonnay,False,1
+validation,Semillon-Sauvignon Blanc,False,19
+validation,Seyval Blanc,False,4
+validation,Shiraz,False,3
+validation,Shiraz,True,357
+validation,Shiraz-Cabernet Sauvignon,False,15
+validation,Shiraz-Grenache,False,4
+validation,Shiraz-Malbec,False,1
+validation,Shiraz-Pinotage,False,1
+validation,Shiraz-Tempranillo,False,1
+validation,Shiraz-Viognier,False,18
+validation,Silvaner,False,11
+validation,Siria,False,1
+validation,Sousão,False,1
+validation,Souzao,False,1
+validation,Sparkling Blend,False,556
+validation,Spätburgunder,False,23
+validation,St. Laurent,False,26
+validation,Susumaniello,False,2
+validation,Sylvaner,False,12
+validation,Symphony,False,3
+validation,Syrah,False,12
+validation,Syrah,True,1238
+validation,Syrah-Cabernet,False,10
+validation,Syrah-Cabernet Franc,False,1
+validation,Syrah-Cabernet Sauvignon,False,9
+validation,Syrah-Grenache,False,13
+validation,Syrah-Merlot,False,2
+validation,Syrah-Mourvèdre,False,2
+validation,Syrah-Petite Sirah,False,3
+validation,Syrah-Tempranillo,False,1
+validation,Syrah-Viognier,False,1
+validation,Sämling,False,1
+validation,Sémillon,False,8
+validation,Sémillon,True,41
+validation,Tai,False,1
+validation,Tamjanika,False,1
+validation,Tannat,False,47
+validation,Tannat-Cabernet,False,5
+validation,Tannat-Cabernet Franc,False,2
+validation,Tannat-Merlot,False,2
+validation,Tempranillo,False,4
+validation,Tempranillo,True,483
+validation,Tempranillo Blanco,False,1
+validation,Tempranillo Blend,False,148
+validation,Tempranillo-Cabernet Sauvignon,False,18
+validation,Tempranillo-Garnacha,False,7
+validation,Tempranillo-Malbec,False,1
+validation,Tempranillo-Merlot,False,3
+validation,Tempranillo-Shiraz,False,2
+validation,Teran,False,4
+validation,Teroldego,False,7
+validation,Timorasso,False,2
+validation,Tinta Amarela,False,1
+validation,Tinta Barroca,False,2
+validation,Tinta Fina,False,3
+validation,Tinta Francisca,False,1
+validation,Tinta Negra Mole,False,2
+validation,Tinta Roriz,False,1
+validation,Tinta de Toro,False,53
+validation,Tintilia ,False,1
+validation,Tinto Fino,False,26
+validation,Tinto del Pais,False,9
+validation,Tocai,False,6
+validation,Tocai Friulano,False,7
+validation,Torbato,False,1
+validation,Torrontés,False,2
+validation,Torrontés,True,72
+validation,Touriga Franca,False,1
+validation,Touriga Nacional,False,45
+validation,Touriga Nacional Blend,False,6
+validation,Touriga Nacional-Cabernet Sauvignon,False,7
+validation,Traminer,False,4
+validation,Trebbiano,False,10
+validation,Trebbiano Spoletino,False,2
+validation,Trebbiano di Lugana,False,2
+validation,Trepat,False,1
+validation,Trincadeira,False,4
+validation,Trollinger,False,1
+validation,Tsolikouri,False,1
+validation,Turbiana,False,28
+validation,Tămâioasă Românească,False,1
+validation,Ugni Blanc-Colombard,False,1
+validation,Uva di Troia,False,4
+validation,Veltliner,False,1
+validation,Verdeca,False,2
+validation,Verdejo,False,1
+validation,Verdejo,True,56
+validation,Verdejo-Sauvignon Blanc,False,2
+validation,Verdejo-Viura,False,5
+validation,Verdelho,False,23
+validation,Verdicchio,False,30
+validation,Verdosilla,False,1
+validation,Verduzzo,False,3
+validation,Verduzzo Friulano ,False,3
+validation,Vermentino,False,3
+validation,Vermentino,True,64
+validation,Vermentino Nero,False,1
+validation,Vernaccia,False,20
+validation,Vidal Blanc,False,12
+validation,Vignoles,False,6
+validation,Vilana,False,3
+validation,Vinhão,False,1
+validation,Viognier,False,15
+validation,Viognier,True,275
+validation,Viognier-Chardonnay,False,1
+validation,Viognier-Marsanne,False,1
+validation,Viognier-Roussanne,False,1
+validation,Viosinho,False,2
+validation,Vitovska,False,1
+validation,Viura,False,30
+validation,Viura-Chardonnay,False,6
+validation,Viura-Verdejo,False,1
+validation,Weissburgunder,False,9
+validation,Welschriesling,False,6
+validation,White Blend,False,54
+validation,White Blend,True,580
+validation,White Riesling,False,6
+validation,Xarel-lo,False,7
+validation,Xinisteri,False,1
+validation,Xinomavro,False,6
+validation,Zibibbo,False,6
+validation,Zierfandler,False,1
+validation,Zinfandel,False,14
+validation,Zinfandel,True,719
+validation,Zweigelt,False,56

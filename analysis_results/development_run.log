@@ -1,0 +1,41 @@
+WARNING: Logging before InitGoogleLogging() is written to STDERR
+W20261108 19:16:56.445673 1810526208 cpu_info.cc:239] IOError: sysctlbyname failed for 'hw.l1dcachesize'. Detail: [errno 1] Operation not permitted
+W20261108 19:16:56.446067 1810526208 cpu_info.cc:239] IOError: sysctlbyname failed for 'hw.l2cachesize'. Detail: [errno 1] Operation not permitted
+W20261108 19:16:56.446225 1810526208 cpu_info.cc:239] IOError: sysctlbyname failed for 'hw.l3cachesize'. Detail: [errno 1] Operation not permitted
+W20261108 19:16:56.446362 1810526208 cpu_info.cc:239] IOError: sysctlbyname failed for 'hw.optional.neon'. Detail: [errno 1] Operation not permitted
+Finished narrow_10 Majority baseline
+Finished narrow_10 Naive Bayes
+Finished narrow_10 Logistic regression
+Finished narrow_10 Linear SVM
+Finished narrow_100 Majority baseline
+Finished narrow_100 Naive Bayes
+Finished narrow_100 Logistic regression
+Finished narrow_100 Linear SVM
+Finished narrow_1000 Majority baseline
+Finished narrow_1000 Naive Bayes
+Finished narrow_1000 Logistic regression
+Finished narrow_1000 Linear SVM
+Finished california_1000 Majority baseline
+Finished california_1000 Naive Bayes
+Finished california_1000 Logistic regression
+Finished california_1000 Linear SVM
+Finished california_10000 Majority baseline
+Finished california_10000 Naive Bayes
+Finished california_10000 Logistic regression
+Finished california_10000 Linear SVM
+Finished california_20000_global Majority baseline
+Finished california_20000_global Naive Bayes
+Finished california_20000_global Logistic regression
+Finished california_20000_global Linear SVM
+Finished allregion_20000 Majority baseline
+Finished allregion_20000 Naive Bayes
+Finished allregion_20000 Logistic regression
+Finished allregion_20000 Linear SVM
+Finished allregion_full Majority baseline
+Finished allregion_full Naive Bayes
+Finished allregion_full Logistic regression
+Finished allregion_full Linear SVM
+Finished original full-size Naive Bayes
+Finished original full-size Logistic regression
+Finished original full-size Linear SVM
+FROZEN allregion_full Linear SVM {'rows': 27121, 'accuracy': 0.9905976918255227, 'balanced_accuracy': 0.988644002959332, 'macro_f1': 0.9892871191194552}
